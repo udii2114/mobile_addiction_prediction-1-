@@ -1,0 +1,1501 @@
+Age,Gender,screen time,social media,gaming or entertainment apps,sleep time,check phone time,anxious without phone,Use phone before sleeping,addiction level
+21,Female,6–8,2–4,2–4,6–7,20–40,sometimes,Always,Medium
+30,Female,2–4,2–4,0 hours,6–7,Less than 10 times,no,Never,Low
+18,Female,4–6,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+26,Female,6–8,4–6,4–6,5–6,More than 40 times,yes,Always,High
+19,Female,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+21,Male,2–4,1–2,1–2,6–7,10–20,sometimes,Sometimes,Medium
+28,Female,2–4,1–2,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+23,Female,4–6,2–4,1–2,5–6,20–40,sometimes,Sometimes,Medium
+28,Female,Less than 2 hours,2–4,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+21,Male,2–4,2–4,2–4,More than 7 hours,10–20,no,Sometimes,Low
+24,Female,2–4,2–4,4–6,5–6,20–40,sometimes,Sometimes,Medium
+27,Male,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,no,Sometimes,Low
+19,Female,Less than 2 hours,1–2,0 hours,6–7,10–20,no,Sometimes,Low
+25,Male,4–6,4–6,2–4,6–7,20–40,sometimes,Always,Medium
+19,Male,More than 8 hours,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+22,Female,4–6,2–4,2–4,5–6,10–20,yes,Always,Medium
+26,Male,Less than 2 hours,1–2,1–2,6–7,10–20,no,Never,Low
+21,Female,4–6,2–4,2–4,6–7,10–20,sometimes,Sometimes,Medium
+26,Male,2–4,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+21,Female,2–4,2–4,1–2,6–7,20–40,sometimes,Always,Medium
+26,Male,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,sometimes,Never,Low
+26,Male,4–6,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+28,Male,2–4,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+20,Female,2–4,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+28,Male,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+21,Male,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Never,Low
+22,Female,Less than 2 hours,1–2,2–4,More than 7 hours,Less than 10 times,no,Never,Low
+30,Male,6–8,4–6,2–4,6–7,20–40,sometimes,Sometimes,Medium
+28,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+22,Female,More than 8 hours,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+24,Female,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+18,Female,4–6,4–6,2–4,6–7,10–20,sometimes,Sometimes,Medium
+18,Male,More than 8 hours,4–6,2–4,Less than 5 hours,More than 40 times,sometimes,Always,High
+30,Male,4–6,1–2,1–2,5–6,10–20,yes,Always,Medium
+27,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+26,Male,2–4,Less than 1 hour,1–2,6–7,10–20,no,Sometimes,Low
+26,Female,6–8,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+21,Female,2–4,Less than 1 hour,2–4,6–7,Less than 10 times,no,Never,Low
+18,Female,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,10–20,no,Never,Low
+20,Male,More than 8 hours,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Sometimes,High
+29,Female,4–6,1–2,2–4,5–6,20–40,sometimes,Always,Medium
+21,Female,More than 8 hours,4–6,4–6,5–6,More than 40 times,sometimes,Sometimes,High
+24,Male,2–4,4–6,2–4,5–6,10–20,yes,Always,Medium
+30,Female,More than 8 hours,4–6,More than 6 hours,5–6,More than 40 times,yes,Always,High
+27,Male,2–4,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+23,Male,4–6,2–4,4–6,6–7,10–20,yes,Always,Medium
+21,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+19,Male,6–8,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+25,Male,2–4,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,sometimes,Never,Low
+25,Female,2–4,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+21,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,20–40,yes,Sometimes,High
+30,Male,More than 8 hours,4–6,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+18,Female,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+28,Male,4–6,4–6,1–2,6–7,20–40,yes,Always,Medium
+23,Male,4–6,2–4,1–2,6–7,20–40,sometimes,Always,Medium
+18,Female,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,sometimes,Sometimes,High
+22,Female,Less than 2 hours,Less than 1 hour,2–4,More than 7 hours,Less than 10 times,no,Never,Low
+25,Male,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+21,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+20,Male,4–6,2–4,2–4,5–6,10–20,yes,Sometimes,Medium
+25,Male,6–8,2–4,4–6,5–6,10–20,sometimes,Sometimes,Medium
+25,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,sometimes,Never,Low
+24,Female,More than 8 hours,4–6,4–6,5–6,20–40,yes,Always,High
+20,Female,More than 8 hours,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+24,Female,4–6,1–2,2–4,5–6,10–20,sometimes,Always,Medium
+29,Female,6–8,More than 6 hours,2–4,5–6,More than 40 times,yes,Sometimes,High
+20,Female,6–8,4–6,2–4,Less than 5 hours,20–40,yes,Always,High
+22,Female,2–4,Less than 1 hour,0 hours,6–7,10–20,no,Never,Low
+19,Male,2–4,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+27,Female,6–8,2–4,2–4,5–6,10–20,yes,Always,Medium
+25,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+30,Male,4–6,1–2,2–4,6–7,10–20,sometimes,Sometimes,Medium
+23,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+25,Male,2–4,4–6,2–4,6–7,10–20,yes,Always,Medium
+18,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+29,Male,4–6,2–4,1–2,6–7,20–40,yes,Always,Medium
+30,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,10–20,no,Never,Low
+30,Male,2–4,2–4,1–2,6–7,10–20,no,Never,Low
+27,Female,6–8,4–6,1–2,6–7,20–40,yes,Always,Medium
+24,Male,2–4,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+25,Male,2–4,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+30,Female,4–6,2–4,1–2,5–6,20–40,yes,Always,Medium
+25,Female,4–6,1–2,1–2,6–7,20–40,yes,Sometimes,Medium
+25,Male,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+22,Male,6–8,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+24,Male,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Sometimes,High
+22,Male,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Never,Low
+28,Female,4–6,2–4,2–4,5–6,20–40,yes,Sometimes,Medium
+26,Female,2–4,Less than 1 hour,2–4,6–7,Less than 10 times,no,Never,Low
+22,Female,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+28,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+29,Female,4–6,4–6,2–4,5–6,20–40,sometimes,Always,Medium
+27,Male,6–8,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+30,Female,6–8,4–6,4–6,6–7,10–20,sometimes,Sometimes,Medium
+23,Female,Less than 2 hours,1–2,1–2,6–7,Less than 10 times,no,Sometimes,Low
+25,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+30,Female,More than 8 hours,More than 6 hours,More than 6 hours,5–6,20–40,yes,Always,High
+30,Male,More than 8 hours,4–6,2–4,5–6,20–40,yes,Always,High
+21,Male,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+27,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+21,Female,Less than 2 hours,2–4,1–2,More than 7 hours,10–20,no,Never,Low
+27,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Sometimes,High
+27,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+28,Male,4–6,2–4,2–4,6–7,20–40,yes,Sometimes,Medium
+21,Male,2–4,1–2,1–2,5–6,20–40,sometimes,Sometimes,Medium
+29,Male,2–4,1–2,1–2,6–7,Less than 10 times,no,Never,Low
+19,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+26,Female,Less than 2 hours,1–2,1–2,6–7,10–20,no,Never,Low
+21,Female,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+25,Male,4–6,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+30,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+20,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+27,Female,4–6,2–4,4–6,6–7,20–40,sometimes,Sometimes,Medium
+18,Female,4–6,4–6,1–2,6–7,20–40,sometimes,Always,Medium
+21,Female,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+30,Male,2–4,2–4,4–6,6–7,10–20,sometimes,Sometimes,Medium
+25,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,sometimes,Never,Low
+29,Female,Less than 2 hours,1–2,1–2,More than 7 hours,10–20,no,Never,Low
+28,Male,2–4,1–2,0 hours,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+23,Male,2–4,1–2,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+30,Male,6–8,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+20,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+19,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,10–20,no,Never,Low
+27,Male,6–8,1–2,1–2,6–7,20–40,yes,Always,Medium
+19,Female,4–6,4–6,4–6,6–7,10–20,sometimes,Sometimes,Medium
+30,Female,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+18,Female,4–6,1–2,4–6,5–6,20–40,sometimes,Sometimes,Medium
+24,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Sometimes,High
+21,Female,4–6,2–4,1–2,5–6,20–40,yes,Sometimes,Medium
+26,Female,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+23,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Sometimes,High
+24,Female,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+20,Female,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+19,Male,6–8,4–6,2–4,5–6,20–40,sometimes,Always,Medium
+30,Male,6–8,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+20,Male,6–8,1–2,2–4,5–6,20–40,sometimes,Sometimes,Medium
+28,Male,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+19,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+21,Female,4–6,4–6,1–2,6–7,20–40,sometimes,Sometimes,Medium
+22,Male,Less than 2 hours,1–2,1–2,6–7,Less than 10 times,no,Never,Low
+25,Male,4–6,1–2,2–4,6–7,10–20,sometimes,Sometimes,Medium
+23,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+19,Male,4–6,4–6,1–2,6–7,10–20,sometimes,Always,Medium
+27,Male,2–4,2–4,0 hours,6–7,10–20,no,Never,Low
+22,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,sometimes,Always,High
+19,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,10–20,no,Never,Low
+21,Female,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+27,Female,2–4,1–2,1–2,5–6,10–20,sometimes,Always,Medium
+29,Female,6–8,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+29,Female,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+28,Female,Less than 2 hours,1–2,2–4,More than 7 hours,Less than 10 times,sometimes,Never,Low
+25,Female,4–6,4–6,2–4,6–7,10–20,sometimes,Sometimes,Medium
+21,Female,4–6,2–4,2–4,6–7,20–40,sometimes,Always,Medium
+27,Male,6–8,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+27,Female,2–4,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+23,Male,4–6,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+27,Male,Less than 2 hours,1–2,2–4,6–7,Less than 10 times,sometimes,Sometimes,Low
+27,Male,Less than 2 hours,1–2,0 hours,6–7,10–20,no,Never,Low
+19,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Sometimes,High
+25,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+28,Female,6–8,2–4,1–2,5–6,20–40,sometimes,Always,Medium
+28,Male,Less than 2 hours,1–2,2–4,More than 7 hours,Less than 10 times,no,Never,Low
+18,Male,6–8,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+21,Female,2–4,1–2,2–4,6–7,20–40,yes,Always,Medium
+18,Female,2–4,2–4,2–4,6–7,10–20,sometimes,Sometimes,Medium
+30,Female,4–6,4–6,2–4,6–7,20–40,sometimes,Sometimes,Medium
+26,Male,6–8,4–6,1–2,5–6,20–40,yes,Sometimes,Medium
+25,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+18,Male,6–8,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+21,Male,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Sometimes,High
+26,Male,4–6,4–6,1–2,5–6,20–40,yes,Sometimes,Medium
+30,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+24,Male,2–4,Less than 1 hour,1–2,6–7,Less than 10 times,no,Sometimes,Low
+22,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,10–20,no,Sometimes,Low
+19,Female,6–8,2–4,4–6,5–6,20–40,yes,Sometimes,Medium
+20,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+30,Female,4–6,4–6,1–2,5–6,10–20,sometimes,Sometimes,Medium
+27,Female,More than 8 hours,More than 6 hours,4–6,5–6,20–40,yes,Always,High
+24,Male,6–8,More than 6 hours,2–4,Less than 5 hours,20–40,yes,Always,High
+19,Male,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+28,Female,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+27,Female,6–8,1–2,1–2,5–6,10–20,sometimes,Always,Medium
+19,Female,6–8,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+24,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,10–20,no,Never,Low
+20,Male,4–6,2–4,4–6,6–7,20–40,sometimes,Sometimes,Medium
+23,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+27,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+25,Female,6–8,4–6,More than 6 hours,Less than 5 hours,20–40,yes,Sometimes,High
+19,Male,2–4,2–4,0 hours,6–7,10–20,sometimes,Sometimes,Low
+25,Female,6–8,More than 6 hours,2–4,Less than 5 hours,20–40,yes,Sometimes,High
+19,Male,6–8,1–2,2–4,6–7,10–20,yes,Sometimes,Medium
+20,Male,4–6,4–6,1–2,6–7,20–40,sometimes,Sometimes,Medium
+25,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+20,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Sometimes,High
+20,Male,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+22,Female,Less than 2 hours,1–2,0 hours,6–7,10–20,no,Never,Low
+23,Female,4–6,2–4,4–6,6–7,10–20,sometimes,Sometimes,Medium
+26,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,10–20,no,Never,Low
+19,Male,More than 8 hours,More than 6 hours,4–6,5–6,20–40,yes,Sometimes,High
+24,Female,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+25,Male,2–4,2–4,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+24,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+19,Female,Less than 2 hours,1–2,1–2,More than 7 hours,10–20,no,Sometimes,Low
+19,Male,4–6,2–4,1–2,5–6,20–40,yes,Always,Medium
+18,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+27,Male,6–8,4–6,More than 6 hours,Less than 5 hours,20–40,yes,Sometimes,High
+29,Female,4–6,4–6,1–2,6–7,20–40,yes,Always,Medium
+28,Male,6–8,2–4,2–4,6–7,20–40,sometimes,Always,Medium
+24,Male,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+25,Female,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+24,Male,More than 8 hours,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+23,Male,6–8,1–2,2–4,6–7,20–40,yes,Sometimes,Medium
+27,Female,Less than 2 hours,1–2,2–4,More than 7 hours,Less than 10 times,sometimes,Never,Low
+27,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+20,Male,4–6,1–2,1–2,5–6,10–20,sometimes,Sometimes,Medium
+26,Male,4–6,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+29,Male,Less than 2 hours,Less than 1 hour,0 hours,6–7,10–20,no,Sometimes,Low
+25,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,10–20,no,Sometimes,Low
+27,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,20–40,yes,Always,High
+26,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,sometimes,Always,High
+30,Female,Less than 2 hours,1–2,2–4,More than 7 hours,Less than 10 times,no,Never,Low
+27,Male,6–8,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+25,Female,2–4,1–2,4–6,6–7,10–20,sometimes,Sometimes,Medium
+29,Male,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+30,Female,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,10–20,no,Sometimes,Low
+30,Male,4–6,1–2,1–2,6–7,20–40,yes,Sometimes,Medium
+27,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Sometimes,High
+23,Male,Less than 2 hours,1–2,1–2,More than 7 hours,10–20,no,Never,Low
+30,Male,Less than 2 hours,1–2,1–2,6–7,Less than 10 times,sometimes,Never,Low
+25,Female,Less than 2 hours,2–4,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+29,Male,6–8,1–2,2–4,6–7,20–40,yes,Always,Medium
+22,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+28,Male,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,sometimes,Never,Low
+29,Female,6–8,2–4,2–4,5–6,10–20,sometimes,Always,Medium
+27,Male,More than 8 hours,4–6,More than 6 hours,5–6,More than 40 times,yes,Sometimes,High
+23,Male,More than 8 hours,More than 6 hours,4–6,5–6,20–40,yes,Always,High
+18,Female,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+18,Female,4–6,1–2,2–4,6–7,20–40,sometimes,Sometimes,Medium
+20,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,10–20,no,Never,Low
+24,Male,2–4,4–6,1–2,5–6,20–40,sometimes,Always,Medium
+30,Female,4–6,2–4,1–2,6–7,20–40,sometimes,Sometimes,Medium
+25,Female,4–6,4–6,2–4,5–6,10–20,sometimes,Sometimes,Medium
+25,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Never,Low
+27,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+18,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+23,Female,6–8,1–2,2–4,6–7,20–40,sometimes,Sometimes,Medium
+21,Female,4–6,2–4,4–6,5–6,10–20,sometimes,Always,Medium
+19,Female,6–8,1–2,2–4,5–6,20–40,sometimes,Sometimes,Medium
+29,Female,4–6,2–4,1–2,6–7,10–20,sometimes,Always,Medium
+20,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+30,Male,6–8,2–4,2–4,5–6,10–20,sometimes,Always,Medium
+19,Male,Less than 2 hours,2–4,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+28,Male,6–8,4–6,4–6,5–6,More than 40 times,yes,Always,High
+27,Male,2–4,1–2,0 hours,6–7,10–20,no,Never,Low
+30,Male,6–8,4–6,2–4,6–7,20–40,sometimes,Sometimes,Medium
+28,Female,6–8,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+23,Male,4–6,2–4,4–6,6–7,10–20,sometimes,Always,Medium
+18,Male,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Sometimes,High
+21,Male,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+22,Female,4–6,1–2,1–2,6–7,10–20,sometimes,Always,Medium
+25,Female,Less than 2 hours,2–4,1–2,More than 7 hours,10–20,sometimes,Sometimes,Low
+19,Female,2–4,2–4,2–4,5–6,10–20,sometimes,Sometimes,Medium
+26,Female,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+20,Female,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+26,Female,More than 8 hours,More than 6 hours,2–4,5–6,More than 40 times,yes,Always,High
+27,Male,6–8,2–4,2–4,6–7,20–40,sometimes,Always,Medium
+26,Male,6–8,1–2,2–4,6–7,20–40,yes,Always,Medium
+21,Male,4–6,4–6,4–6,6–7,20–40,sometimes,Always,Medium
+23,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+19,Male,4–6,1–2,2–4,5–6,10–20,sometimes,Sometimes,Medium
+27,Male,4–6,1–2,1–2,5–6,10–20,yes,Always,Medium
+24,Female,4–6,2–4,4–6,6–7,20–40,yes,Sometimes,Medium
+22,Male,2–4,4–6,4–6,5–6,20–40,sometimes,Always,Medium
+18,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+29,Female,6–8,4–6,2–4,5–6,20–40,sometimes,Always,Medium
+18,Male,4–6,1–2,1–2,5–6,10–20,sometimes,Always,Medium
+21,Female,6–8,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+28,Male,2–4,4–6,1–2,5–6,20–40,sometimes,Sometimes,Medium
+22,Male,4–6,1–2,2–4,6–7,20–40,sometimes,Always,Medium
+30,Female,4–6,4–6,2–4,6–7,20–40,sometimes,Sometimes,Medium
+22,Female,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+28,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+23,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+20,Male,6–8,2–4,1–2,5–6,10–20,sometimes,Sometimes,Medium
+18,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+24,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,sometimes,Always,High
+24,Male,2–4,4–6,2–4,5–6,20–40,yes,Always,Medium
+25,Male,More than 8 hours,4–6,4–6,5–6,More than 40 times,yes,Always,High
+24,Female,More than 8 hours,4–6,4–6,Less than 5 hours,20–40,sometimes,Always,High
+20,Male,2–4,1–2,2–4,5–6,20–40,sometimes,Sometimes,Medium
+28,Female,6–8,4–6,2–4,5–6,10–20,sometimes,Sometimes,Medium
+25,Male,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+20,Male,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,10–20,sometimes,Sometimes,Low
+30,Female,More than 8 hours,More than 6 hours,4–6,5–6,20–40,yes,Always,High
+28,Female,2–4,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+24,Female,2–4,Less than 1 hour,0 hours,More than 7 hours,10–20,sometimes,Never,Low
+23,Male,4–6,4–6,1–2,5–6,20–40,sometimes,Sometimes,Medium
+28,Female,Less than 2 hours,1–2,1–2,6–7,10–20,no,Never,Low
+29,Male,6–8,2–4,1–2,6–7,10–20,sometimes,Sometimes,Medium
+22,Male,6–8,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Sometimes,High
+29,Male,6–8,2–4,1–2,5–6,20–40,sometimes,Sometimes,Medium
+26,Female,6–8,More than 6 hours,More than 6 hours,5–6,20–40,yes,Always,High
+29,Female,2–4,1–2,2–4,6–7,10–20,sometimes,Sometimes,Medium
+23,Male,Less than 2 hours,2–4,0 hours,6–7,10–20,sometimes,Never,Low
+28,Female,2–4,4–6,1–2,6–7,20–40,sometimes,Sometimes,Medium
+21,Male,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+22,Male,2–4,1–2,2–4,6–7,10–20,no,Sometimes,Low
+24,Male,6–8,2–4,2–4,6–7,20–40,yes,Sometimes,Medium
+26,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+28,Female,6–8,1–2,2–4,5–6,10–20,yes,Always,Medium
+18,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+30,Male,4–6,2–4,1–2,6–7,20–40,sometimes,Always,Medium
+28,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+29,Male,Less than 2 hours,2–4,0 hours,6–7,Less than 10 times,no,Never,Low
+18,Female,Less than 2 hours,2–4,1–2,More than 7 hours,10–20,no,Never,Low
+21,Female,4–6,4–6,2–4,5–6,20–40,sometimes,Always,Medium
+24,Female,4–6,2–4,2–4,6–7,20–40,sometimes,Always,Medium
+24,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Sometimes,High
+27,Female,4–6,2–4,4–6,6–7,20–40,sometimes,Always,Medium
+22,Female,4–6,4–6,4–6,5–6,10–20,yes,Sometimes,Medium
+20,Male,6–8,2–4,1–2,6–7,20–40,sometimes,Sometimes,Medium
+27,Female,2–4,1–2,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+21,Female,Less than 2 hours,Less than 1 hour,2–4,6–7,Less than 10 times,sometimes,Sometimes,Low
+18,Female,More than 8 hours,More than 6 hours,2–4,5–6,More than 40 times,sometimes,Always,High
+19,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+26,Female,6–8,4–6,2–4,6–7,20–40,yes,Sometimes,Medium
+25,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+20,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+23,Female,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+30,Male,2–4,Less than 1 hour,0 hours,More than 7 hours,10–20,no,Never,Low
+22,Female,6–8,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+29,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,10–20,no,Never,Low
+21,Male,6–8,2–4,1–2,6–7,20–40,yes,Always,Medium
+22,Male,2–4,Less than 1 hour,1–2,More than 7 hours,10–20,no,Sometimes,Low
+19,Female,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+25,Female,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+26,Male,4–6,4–6,2–4,5–6,10–20,yes,Sometimes,Medium
+24,Female,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+20,Male,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+27,Male,6–8,1–2,2–4,5–6,20–40,sometimes,Always,Medium
+26,Male,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+27,Male,6–8,2–4,2–4,5–6,10–20,yes,Always,Medium
+25,Female,6–8,2–4,2–4,5–6,10–20,yes,Sometimes,Medium
+29,Male,4–6,1–2,2–4,5–6,10–20,sometimes,Sometimes,Medium
+30,Female,Less than 2 hours,2–4,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+22,Male,4–6,4–6,2–4,6–7,10–20,sometimes,Sometimes,Medium
+21,Female,Less than 2 hours,1–2,1–2,6–7,10–20,no,Never,Low
+30,Female,6–8,4–6,2–4,5–6,10–20,yes,Always,Medium
+26,Female,2–4,Less than 1 hour,2–4,6–7,10–20,no,Sometimes,Low
+26,Male,Less than 2 hours,2–4,2–4,6–7,Less than 10 times,no,Sometimes,Low
+23,Male,6–8,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+24,Male,2–4,Less than 1 hour,1–2,6–7,Less than 10 times,no,Sometimes,Low
+22,Male,Less than 2 hours,Less than 1 hour,2–4,6–7,Less than 10 times,no,Never,Low
+24,Male,4–6,2–4,4–6,5–6,20–40,yes,Sometimes,Medium
+22,Female,4–6,2–4,1–2,5–6,10–20,sometimes,Always,Medium
+21,Male,More than 8 hours,4–6,2–4,5–6,20–40,yes,Always,High
+24,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+20,Female,2–4,Less than 1 hour,2–4,More than 7 hours,Less than 10 times,no,Never,Low
+27,Female,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,10–20,no,Sometimes,Low
+18,Male,4–6,1–2,4–6,5–6,20–40,sometimes,Sometimes,Medium
+21,Male,2–4,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+28,Male,6–8,4–6,More than 6 hours,5–6,More than 40 times,yes,Always,High
+30,Male,More than 8 hours,4–6,4–6,Less than 5 hours,20–40,yes,Sometimes,High
+21,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+19,Female,4–6,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+21,Male,2–4,1–2,1–2,6–7,10–20,no,Sometimes,Low
+18,Male,2–4,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+20,Female,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+30,Male,Less than 2 hours,1–2,1–2,More than 7 hours,10–20,no,Sometimes,Low
+20,Male,2–4,2–4,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+27,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+27,Female,2–4,Less than 1 hour,1–2,6–7,Less than 10 times,no,Never,Low
+27,Male,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+21,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,sometimes,Never,Low
+18,Female,6–8,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+25,Female,2–4,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+26,Male,6–8,4–6,2–4,Less than 5 hours,More than 40 times,yes,Sometimes,High
+26,Male,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Sometimes,High
+26,Female,2–4,2–4,1–2,5–6,10–20,yes,Always,Medium
+23,Male,6–8,4–6,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+18,Female,2–4,Less than 1 hour,2–4,6–7,Less than 10 times,no,Sometimes,Low
+19,Male,6–8,4–6,2–4,Less than 5 hours,More than 40 times,sometimes,Always,High
+21,Female,2–4,2–4,2–4,6–7,10–20,sometimes,Sometimes,Medium
+27,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Sometimes,High
+21,Female,2–4,Less than 1 hour,0 hours,6–7,10–20,no,Sometimes,Low
+25,Male,2–4,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+26,Male,Less than 2 hours,1–2,2–4,6–7,10–20,no,Never,Low
+19,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+27,Female,2–4,1–2,0 hours,6–7,10–20,no,Never,Low
+24,Female,2–4,Less than 1 hour,0 hours,More than 7 hours,10–20,no,Never,Low
+19,Male,Less than 2 hours,Less than 1 hour,2–4,6–7,10–20,sometimes,Sometimes,Low
+19,Male,More than 8 hours,4–6,2–4,Less than 5 hours,20–40,yes,Sometimes,High
+23,Male,2–4,1–2,1–2,6–7,Less than 10 times,no,Never,Low
+26,Male,4–6,4–6,2–4,6–7,10–20,sometimes,Sometimes,Medium
+23,Male,2–4,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+20,Female,6–8,4–6,2–4,5–6,10–20,sometimes,Sometimes,Medium
+26,Female,6–8,2–4,2–4,5–6,10–20,sometimes,Always,Medium
+21,Male,6–8,2–4,2–4,5–6,10–20,sometimes,Sometimes,Medium
+24,Male,Less than 2 hours,2–4,2–4,6–7,Less than 10 times,no,Never,Low
+20,Female,More than 8 hours,More than 6 hours,2–4,5–6,More than 40 times,sometimes,Always,High
+19,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,10–20,no,Sometimes,Low
+27,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+29,Male,4–6,4–6,4–6,6–7,10–20,sometimes,Always,Medium
+26,Male,Less than 2 hours,1–2,1–2,6–7,Less than 10 times,sometimes,Never,Low
+20,Male,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+29,Male,2–4,4–6,4–6,6–7,10–20,sometimes,Always,Medium
+26,Female,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,sometimes,Never,Low
+23,Male,4–6,2–4,2–4,5–6,10–20,sometimes,Sometimes,Medium
+27,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Sometimes,High
+22,Male,4–6,2–4,4–6,6–7,20–40,sometimes,Always,Medium
+20,Male,4–6,4–6,2–4,6–7,10–20,sometimes,Sometimes,Medium
+18,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+23,Male,2–4,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+18,Male,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+28,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+28,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+23,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+22,Female,4–6,2–4,4–6,5–6,10–20,sometimes,Sometimes,Medium
+24,Female,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+26,Male,6–8,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+25,Female,4–6,4–6,2–4,6–7,20–40,yes,Sometimes,Medium
+24,Male,Less than 2 hours,1–2,1–2,6–7,10–20,no,Never,Low
+25,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+30,Female,4–6,2–4,2–4,6–7,20–40,yes,Sometimes,Medium
+18,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+23,Male,6–8,1–2,2–4,6–7,10–20,sometimes,Sometimes,Medium
+18,Female,6–8,1–2,2–4,6–7,20–40,sometimes,Always,Medium
+24,Female,4–6,2–4,4–6,5–6,10–20,yes,Sometimes,Medium
+28,Female,2–4,Less than 1 hour,1–2,6–7,10–20,sometimes,Sometimes,Low
+19,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+26,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+25,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,sometimes,Never,Low
+18,Female,4–6,1–2,1–2,6–7,10–20,sometimes,Sometimes,Medium
+29,Female,2–4,2–4,2–4,5–6,10–20,sometimes,Always,Medium
+30,Male,6–8,1–2,4–6,5–6,10–20,yes,Sometimes,Medium
+25,Female,Less than 2 hours,2–4,0 hours,6–7,10–20,sometimes,Never,Low
+30,Male,2–4,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+25,Male,4–6,1–2,1–2,5–6,20–40,yes,Sometimes,Medium
+19,Male,Less than 2 hours,Less than 1 hour,2–4,More than 7 hours,Less than 10 times,no,Sometimes,Low
+24,Male,2–4,4–6,4–6,6–7,10–20,yes,Sometimes,Medium
+28,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Never,Low
+25,Female,6–8,2–4,2–4,5–6,10–20,sometimes,Always,Medium
+18,Male,Less than 2 hours,1–2,1–2,More than 7 hours,10–20,sometimes,Never,Low
+26,Female,4–6,2–4,4–6,5–6,10–20,sometimes,Always,Medium
+24,Female,2–4,Less than 1 hour,2–4,6–7,Less than 10 times,no,Sometimes,Low
+19,Female,6–8,4–6,2–4,5–6,20–40,sometimes,Always,Medium
+25,Male,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Sometimes,High
+28,Male,6–8,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+26,Female,Less than 2 hours,Less than 1 hour,2–4,More than 7 hours,Less than 10 times,sometimes,Never,Low
+26,Male,4–6,1–2,4–6,5–6,20–40,sometimes,Sometimes,Medium
+21,Male,6–8,2–4,4–6,6–7,20–40,sometimes,Always,Medium
+25,Male,6–8,More than 6 hours,4–6,5–6,20–40,yes,Always,High
+21,Male,6–8,4–6,2–4,6–7,10–20,sometimes,Always,Medium
+21,Male,4–6,4–6,4–6,6–7,20–40,yes,Sometimes,Medium
+22,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+20,Female,More than 8 hours,4–6,More than 6 hours,5–6,More than 40 times,sometimes,Always,High
+19,Female,Less than 2 hours,1–2,2–4,More than 7 hours,Less than 10 times,no,Sometimes,Low
+28,Male,4–6,4–6,2–4,5–6,10–20,sometimes,Sometimes,Medium
+19,Female,Less than 2 hours,1–2,2–4,6–7,Less than 10 times,no,Sometimes,Low
+20,Male,6–8,4–6,4–6,6–7,10–20,sometimes,Sometimes,Medium
+28,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Sometimes,High
+26,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Never,Low
+28,Female,2–4,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+22,Male,6–8,4–6,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+30,Female,Less than 2 hours,1–2,2–4,More than 7 hours,Less than 10 times,sometimes,Never,Low
+27,Male,2–4,2–4,4–6,6–7,20–40,sometimes,Sometimes,Medium
+24,Male,6–8,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+27,Female,4–6,1–2,2–4,6–7,10–20,sometimes,Sometimes,Medium
+29,Female,2–4,1–2,2–4,6–7,10–20,sometimes,Always,Medium
+22,Female,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+19,Female,4–6,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+27,Female,2–4,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+22,Female,4–6,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+27,Female,6–8,4–6,4–6,5–6,More than 40 times,yes,Always,High
+26,Female,2–4,1–2,4–6,6–7,10–20,yes,Sometimes,Medium
+23,Male,More than 8 hours,4–6,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+24,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+27,Male,2–4,4–6,2–4,6–7,20–40,sometimes,Sometimes,Medium
+24,Male,4–6,4–6,2–4,5–6,20–40,sometimes,Always,Medium
+27,Male,6–8,2–4,1–2,6–7,10–20,sometimes,Always,Medium
+23,Male,4–6,2–4,1–2,6–7,20–40,sometimes,Always,Medium
+18,Male,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+25,Female,2–4,2–4,4–6,5–6,10–20,sometimes,Sometimes,Medium
+23,Male,More than 8 hours,More than 6 hours,4–6,5–6,20–40,yes,Always,High
+27,Male,2–4,1–2,2–4,5–6,10–20,sometimes,Sometimes,Medium
+19,Male,6–8,More than 6 hours,More than 6 hours,5–6,20–40,yes,Sometimes,High
+19,Male,4–6,1–2,4–6,6–7,20–40,sometimes,Always,Medium
+18,Male,4–6,2–4,1–2,5–6,10–20,sometimes,Sometimes,Medium
+21,Male,6–8,4–6,4–6,Less than 5 hours,More than 40 times,yes,Sometimes,High
+29,Female,6–8,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+20,Female,6–8,1–2,2–4,6–7,20–40,sometimes,Sometimes,Medium
+25,Female,4–6,2–4,2–4,5–6,10–20,sometimes,Always,Medium
+26,Male,Less than 2 hours,Less than 1 hour,0 hours,6–7,10–20,no,Sometimes,Low
+25,Female,2–4,1–2,0 hours,6–7,10–20,no,Never,Low
+29,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Never,Low
+18,Male,4–6,1–2,2–4,6–7,10–20,yes,Always,Medium
+24,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,10–20,no,Sometimes,Low
+26,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Sometimes,High
+20,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+25,Male,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+25,Female,4–6,2–4,4–6,6–7,20–40,sometimes,Always,Medium
+30,Male,4–6,4–6,4–6,5–6,10–20,sometimes,Sometimes,Medium
+30,Male,6–8,4–6,2–4,5–6,10–20,yes,Always,Medium
+25,Female,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+27,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,20–40,yes,Sometimes,High
+26,Female,6–8,4–6,More than 6 hours,5–6,More than 40 times,yes,Always,High
+30,Female,2–4,4–6,4–6,5–6,10–20,yes,Sometimes,Medium
+28,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,10–20,no,Never,Low
+20,Female,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,sometimes,Always,High
+30,Male,More than 8 hours,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+28,Female,2–4,Less than 1 hour,2–4,6–7,Less than 10 times,sometimes,Never,Low
+25,Female,6–8,1–2,4–6,5–6,20–40,sometimes,Always,Medium
+20,Female,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+25,Male,6–8,4–6,4–6,5–6,20–40,sometimes,Always,Medium
+27,Female,2–4,1–2,0 hours,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+21,Female,6–8,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+20,Female,2–4,Less than 1 hour,2–4,6–7,Less than 10 times,no,Never,Low
+22,Female,Less than 2 hours,2–4,1–2,More than 7 hours,10–20,no,Never,Low
+18,Male,4–6,4–6,1–2,5–6,20–40,sometimes,Always,Medium
+30,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+24,Female,2–4,1–2,2–4,More than 7 hours,10–20,no,Sometimes,Low
+24,Female,Less than 2 hours,2–4,1–2,More than 7 hours,10–20,sometimes,Never,Low
+18,Female,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+19,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Sometimes,High
+22,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+27,Male,2–4,2–4,0 hours,More than 7 hours,10–20,no,Never,Low
+28,Male,6–8,2–4,2–4,5–6,10–20,yes,Always,Medium
+28,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+30,Female,6–8,2–4,4–6,6–7,10–20,yes,Always,Medium
+23,Female,6–8,4–6,2–4,5–6,10–20,sometimes,Sometimes,Medium
+27,Female,More than 8 hours,4–6,2–4,Less than 5 hours,20–40,yes,Always,High
+25,Male,2–4,1–2,0 hours,More than 7 hours,10–20,sometimes,Never,Low
+30,Male,6–8,4–6,4–6,5–6,20–40,yes,Sometimes,Medium
+21,Female,More than 8 hours,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+29,Female,6–8,2–4,4–6,5–6,20–40,yes,Sometimes,Medium
+25,Female,2–4,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+27,Male,4–6,1–2,2–4,5–6,10–20,sometimes,Always,Medium
+30,Female,4–6,4–6,1–2,5–6,20–40,sometimes,Sometimes,Medium
+28,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+30,Male,4–6,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+29,Male,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+30,Female,4–6,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+26,Male,More than 8 hours,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+26,Male,6–8,2–4,2–4,5–6,10–20,sometimes,Always,Medium
+26,Male,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+29,Female,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+21,Female,2–4,1–2,1–2,5–6,10–20,yes,Always,Medium
+18,Male,More than 8 hours,More than 6 hours,4–6,5–6,20–40,yes,Always,High
+23,Male,6–8,2–4,1–2,6–7,20–40,sometimes,Sometimes,Medium
+24,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,no,Never,Low
+19,Male,6–8,2–4,1–2,5–6,10–20,sometimes,Always,Medium
+29,Male,4–6,2–4,4–6,6–7,10–20,sometimes,Sometimes,Medium
+18,Male,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+21,Female,Less than 2 hours,2–4,0 hours,6–7,10–20,no,Never,Low
+26,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+19,Male,2–4,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Never,Low
+21,Male,6–8,1–2,2–4,6–7,20–40,yes,Sometimes,Medium
+24,Female,4–6,4–6,4–6,5–6,10–20,sometimes,Always,Medium
+21,Female,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+22,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+27,Male,Less than 2 hours,2–4,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+23,Female,More than 8 hours,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+26,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+29,Female,2–4,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+20,Male,4–6,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+28,Female,2–4,1–2,2–4,6–7,Less than 10 times,no,Never,Low
+25,Male,Less than 2 hours,1–2,1–2,More than 7 hours,10–20,no,Never,Low
+19,Male,6–8,1–2,1–2,6–7,10–20,yes,Always,Medium
+29,Male,Less than 2 hours,2–4,2–4,More than 7 hours,Less than 10 times,no,Never,Low
+18,Female,More than 8 hours,More than 6 hours,2–4,5–6,More than 40 times,yes,Always,High
+24,Female,4–6,2–4,2–4,5–6,10–20,yes,Always,Medium
+22,Male,4–6,1–2,2–4,6–7,10–20,sometimes,Sometimes,Medium
+18,Female,2–4,2–4,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+29,Female,Less than 2 hours,1–2,1–2,6–7,Less than 10 times,no,Never,Low
+28,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+24,Male,6–8,2–4,4–6,5–6,20–40,sometimes,Sometimes,Medium
+21,Female,More than 8 hours,4–6,2–4,Less than 5 hours,20–40,yes,Always,High
+18,Male,More than 8 hours,4–6,More than 6 hours,5–6,More than 40 times,yes,Sometimes,High
+23,Female,More than 8 hours,More than 6 hours,More than 6 hours,5–6,20–40,yes,Sometimes,High
+18,Female,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+24,Female,6–8,2–4,2–4,6–7,10–20,yes,Always,Medium
+30,Male,2–4,2–4,0 hours,More than 7 hours,10–20,sometimes,Never,Low
+18,Female,4–6,2–4,2–4,6–7,20–40,sometimes,Always,Medium
+22,Male,6–8,2–4,1–2,5–6,20–40,sometimes,Always,Medium
+30,Female,More than 8 hours,4–6,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+24,Male,6–8,4–6,More than 6 hours,5–6,More than 40 times,yes,Sometimes,High
+30,Female,Less than 2 hours,1–2,1–2,More than 7 hours,10–20,no,Never,Low
+28,Male,2–4,1–2,1–2,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+29,Male,6–8,2–4,2–4,6–7,20–40,yes,Always,Medium
+19,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+24,Male,6–8,1–2,2–4,6–7,20–40,sometimes,Always,Medium
+24,Male,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+21,Female,6–8,2–4,4–6,6–7,10–20,sometimes,Sometimes,Medium
+22,Male,6–8,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+20,Male,2–4,2–4,1–2,6–7,20–40,yes,Always,Medium
+24,Male,4–6,2–4,4–6,5–6,20–40,sometimes,Sometimes,Medium
+22,Male,4–6,4–6,4–6,6–7,20–40,sometimes,Always,Medium
+20,Female,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+25,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,20–40,sometimes,Always,High
+30,Female,6–8,4–6,2–4,6–7,20–40,sometimes,Always,Medium
+28,Female,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+27,Male,2–4,2–4,1–2,More than 7 hours,10–20,no,Sometimes,Low
+23,Female,Less than 2 hours,1–2,1–2,More than 7 hours,10–20,no,Never,Low
+20,Female,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+28,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+28,Male,6–8,4–6,4–6,5–6,More than 40 times,yes,Always,High
+19,Female,6–8,4–6,2–4,5–6,20–40,sometimes,Always,Medium
+19,Female,4–6,4–6,2–4,5–6,20–40,yes,Sometimes,Medium
+26,Male,More than 8 hours,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+19,Male,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+25,Female,More than 8 hours,More than 6 hours,4–6,5–6,20–40,yes,Always,High
+29,Female,2–4,Less than 1 hour,0 hours,6–7,Less than 10 times,sometimes,Never,Low
+20,Female,6–8,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+25,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,10–20,no,Sometimes,Low
+30,Female,4–6,2–4,1–2,5–6,10–20,sometimes,Sometimes,Medium
+18,Male,2–4,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+19,Male,4–6,4–6,2–4,5–6,20–40,sometimes,Always,Medium
+27,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,10–20,no,Never,Low
+18,Female,6–8,4–6,4–6,5–6,20–40,yes,Always,High
+20,Male,6–8,4–6,2–4,5–6,20–40,sometimes,Sometimes,Medium
+22,Female,6–8,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+30,Male,Less than 2 hours,Less than 1 hour,0 hours,6–7,10–20,no,Sometimes,Low
+20,Female,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Sometimes,High
+20,Male,4–6,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+27,Male,2–4,4–6,2–4,5–6,20–40,sometimes,Sometimes,Medium
+19,Male,Less than 2 hours,1–2,2–4,6–7,10–20,no,Sometimes,Low
+26,Female,2–4,1–2,2–4,6–7,10–20,no,Never,Low
+23,Female,2–4,2–4,1–2,6–7,20–40,yes,Sometimes,Medium
+20,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,no,Never,Low
+21,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,10–20,sometimes,Never,Low
+27,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+24,Female,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,10–20,no,Never,Low
+29,Female,More than 8 hours,4–6,4–6,Less than 5 hours,More than 40 times,sometimes,Always,High
+25,Male,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Never,Low
+21,Female,4–6,4–6,1–2,6–7,10–20,yes,Sometimes,Medium
+19,Male,4–6,2–4,2–4,5–6,10–20,sometimes,Sometimes,Medium
+28,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,no,Never,Low
+21,Female,6–8,4–6,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+29,Male,4–6,2–4,1–2,5–6,20–40,sometimes,Always,Medium
+27,Female,2–4,1–2,0 hours,More than 7 hours,10–20,no,Never,Low
+25,Male,Less than 2 hours,2–4,0 hours,6–7,Less than 10 times,no,Never,Low
+24,Female,2–4,2–4,0 hours,6–7,Less than 10 times,no,Never,Low
+21,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+20,Female,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+22,Male,4–6,4–6,1–2,6–7,20–40,yes,Always,Medium
+30,Female,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Sometimes,High
+28,Female,Less than 2 hours,1–2,2–4,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+27,Female,More than 8 hours,4–6,More than 6 hours,5–6,20–40,sometimes,Always,High
+19,Female,4–6,4–6,1–2,6–7,20–40,sometimes,Always,Medium
+18,Female,2–4,1–2,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+24,Female,Less than 2 hours,2–4,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+21,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+18,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,10–20,no,Sometimes,Low
+24,Female,6–8,2–4,2–4,6–7,10–20,sometimes,Sometimes,Medium
+25,Female,4–6,1–2,4–6,6–7,10–20,yes,Sometimes,Medium
+25,Male,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+23,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+24,Female,4–6,4–6,2–4,6–7,10–20,yes,Sometimes,Medium
+22,Male,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+28,Female,4–6,2–4,2–4,6–7,10–20,sometimes,Sometimes,Medium
+18,Male,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+27,Male,More than 8 hours,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+29,Male,6–8,2–4,2–4,6–7,10–20,yes,Always,Medium
+23,Female,Less than 2 hours,1–2,1–2,More than 7 hours,10–20,sometimes,Sometimes,Low
+27,Male,Less than 2 hours,1–2,1–2,6–7,10–20,sometimes,Never,Low
+22,Female,6–8,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+30,Female,2–4,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Never,Low
+28,Male,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+28,Female,2–4,1–2,1–2,6–7,20–40,sometimes,Sometimes,Medium
+18,Male,4–6,2–4,2–4,6–7,20–40,yes,Sometimes,Medium
+21,Female,More than 8 hours,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+25,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+19,Male,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+26,Male,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+29,Male,6–8,4–6,1–2,5–6,20–40,sometimes,Sometimes,Medium
+26,Male,2–4,Less than 1 hour,0 hours,More than 7 hours,10–20,no,Never,Low
+26,Female,2–4,1–2,2–4,5–6,10–20,yes,Sometimes,Medium
+23,Female,2–4,1–2,2–4,6–7,20–40,sometimes,Sometimes,Medium
+24,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,10–20,no,Never,Low
+18,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+30,Female,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+30,Male,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+26,Male,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+20,Male,6–8,4–6,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+26,Male,Less than 2 hours,1–2,1–2,6–7,10–20,sometimes,Sometimes,Low
+21,Female,2–4,Less than 1 hour,2–4,6–7,Less than 10 times,no,Never,Low
+24,Female,6–8,2–4,1–2,6–7,10–20,yes,Sometimes,Medium
+23,Male,6–8,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+30,Female,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+28,Female,Less than 2 hours,Less than 1 hour,2–4,More than 7 hours,Less than 10 times,sometimes,Never,Low
+28,Male,6–8,4–6,1–2,5–6,10–20,sometimes,Always,Medium
+24,Male,6–8,2–4,2–4,6–7,20–40,sometimes,Always,Medium
+18,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,10–20,no,Sometimes,Low
+28,Male,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Sometimes,High
+24,Male,More than 8 hours,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+30,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,10–20,no,Never,Low
+21,Female,4–6,2–4,4–6,6–7,20–40,yes,Sometimes,Medium
+27,Male,More than 8 hours,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+20,Female,4–6,2–4,4–6,6–7,10–20,sometimes,Sometimes,Medium
+22,Male,4–6,4–6,4–6,6–7,10–20,yes,Sometimes,Medium
+18,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,sometimes,Never,Low
+25,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+22,Female,Less than 2 hours,2–4,1–2,More than 7 hours,Less than 10 times,sometimes,Never,Low
+26,Female,2–4,1–2,1–2,6–7,10–20,sometimes,Always,Medium
+22,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,10–20,no,Never,Low
+26,Female,6–8,4–6,1–2,5–6,10–20,yes,Sometimes,Medium
+30,Male,2–4,1–2,2–4,6–7,Less than 10 times,no,Never,Low
+21,Female,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+27,Female,6–8,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+21,Female,4–6,2–4,1–2,5–6,10–20,sometimes,Always,Medium
+23,Male,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+23,Male,2–4,2–4,0 hours,More than 7 hours,10–20,sometimes,Never,Low
+25,Female,4–6,2–4,2–4,6–7,10–20,yes,Always,Medium
+27,Male,4–6,2–4,2–4,5–6,20–40,yes,Sometimes,Medium
+28,Female,Less than 2 hours,Less than 1 hour,2–4,More than 7 hours,10–20,sometimes,Never,Low
+23,Male,More than 8 hours,4–6,4–6,5–6,More than 40 times,sometimes,Always,High
+23,Female,2–4,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+28,Male,6–8,1–2,1–2,6–7,20–40,yes,Sometimes,Medium
+20,Female,4–6,1–2,2–4,6–7,20–40,yes,Always,Medium
+21,Male,Less than 2 hours,Less than 1 hour,2–4,More than 7 hours,Less than 10 times,no,Never,Low
+27,Male,6–8,2–4,1–2,6–7,20–40,sometimes,Always,Medium
+20,Female,4–6,2–4,1–2,5–6,10–20,yes,Always,Medium
+24,Male,4–6,4–6,4–6,5–6,20–40,sometimes,Sometimes,Medium
+20,Female,More than 8 hours,4–6,4–6,Less than 5 hours,More than 40 times,sometimes,Always,High
+26,Male,6–8,1–2,4–6,5–6,10–20,yes,Always,Medium
+18,Female,More than 8 hours,4–6,4–6,Less than 5 hours,20–40,sometimes,Always,High
+24,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Sometimes,High
+18,Male,4–6,1–2,1–2,6–7,20–40,sometimes,Sometimes,Medium
+20,Male,4–6,2–4,2–4,6–7,10–20,sometimes,Sometimes,Medium
+22,Male,4–6,1–2,4–6,6–7,20–40,sometimes,Always,Medium
+25,Male,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,no,Sometimes,Low
+23,Male,2–4,4–6,2–4,6–7,20–40,sometimes,Sometimes,Medium
+19,Male,6–8,2–4,1–2,6–7,20–40,sometimes,Sometimes,Medium
+29,Female,More than 8 hours,More than 6 hours,4–6,5–6,20–40,yes,Always,High
+20,Female,6–8,4–6,4–6,6–7,10–20,sometimes,Always,Medium
+30,Male,More than 8 hours,4–6,More than 6 hours,5–6,More than 40 times,yes,Always,High
+22,Female,2–4,Less than 1 hour,2–4,More than 7 hours,Less than 10 times,sometimes,Never,Low
+21,Male,2–4,Less than 1 hour,2–4,More than 7 hours,10–20,no,Sometimes,Low
+21,Female,6–8,2–4,1–2,6–7,10–20,sometimes,Sometimes,Medium
+18,Female,More than 8 hours,4–6,4–6,5–6,20–40,yes,Always,High
+30,Female,4–6,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+29,Male,2–4,Less than 1 hour,0 hours,More than 7 hours,10–20,no,Never,Low
+29,Female,6–8,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+25,Male,4–6,2–4,2–4,5–6,10–20,sometimes,Sometimes,Medium
+29,Male,More than 8 hours,More than 6 hours,2–4,5–6,20–40,yes,Always,High
+29,Male,6–8,2–4,2–4,6–7,20–40,yes,Always,Medium
+20,Male,6–8,1–2,2–4,5–6,20–40,yes,Always,Medium
+24,Female,6–8,4–6,1–2,6–7,20–40,sometimes,Sometimes,Medium
+26,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+26,Male,4–6,2–4,4–6,6–7,20–40,yes,Always,Medium
+19,Male,6–8,2–4,4–6,6–7,10–20,sometimes,Always,Medium
+19,Male,6–8,More than 6 hours,4–6,5–6,More than 40 times,yes,Sometimes,High
+30,Female,2–4,1–2,1–2,6–7,Less than 10 times,no,Never,Low
+27,Male,4–6,2–4,4–6,6–7,20–40,sometimes,Sometimes,Medium
+18,Male,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,sometimes,Never,Low
+28,Female,6–8,4–6,4–6,5–6,10–20,sometimes,Always,Medium
+30,Male,4–6,2–4,4–6,6–7,20–40,sometimes,Sometimes,Medium
+30,Male,2–4,4–6,1–2,5–6,10–20,sometimes,Sometimes,Medium
+18,Female,6–8,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+29,Female,2–4,4–6,4–6,6–7,10–20,sometimes,Always,Medium
+29,Female,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+30,Male,Less than 2 hours,1–2,1–2,More than 7 hours,10–20,sometimes,Sometimes,Low
+29,Female,6–8,4–6,2–4,5–6,10–20,sometimes,Sometimes,Medium
+30,Female,4–6,2–4,1–2,6–7,20–40,sometimes,Always,Medium
+24,Male,Less than 2 hours,Less than 1 hour,1–2,6–7,10–20,no,Never,Low
+21,Female,4–6,2–4,2–4,5–6,20–40,yes,Sometimes,Medium
+22,Male,4–6,1–2,4–6,5–6,20–40,yes,Sometimes,Medium
+21,Female,2–4,1–2,2–4,6–7,Less than 10 times,no,Sometimes,Low
+29,Male,More than 8 hours,4–6,More than 6 hours,5–6,More than 40 times,yes,Always,High
+26,Female,2–4,1–2,0 hours,More than 7 hours,10–20,no,Sometimes,Low
+30,Male,2–4,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+24,Male,2–4,1–2,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+25,Male,Less than 2 hours,2–4,1–2,More than 7 hours,10–20,no,Sometimes,Low
+30,Female,More than 8 hours,4–6,4–6,Less than 5 hours,More than 40 times,yes,Sometimes,High
+25,Male,2–4,Less than 1 hour,2–4,More than 7 hours,10–20,sometimes,Never,Low
+24,Female,Less than 2 hours,1–2,1–2,6–7,10–20,no,Never,Low
+20,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+19,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+20,Male,4–6,1–2,1–2,6–7,10–20,sometimes,Always,Medium
+19,Female,6–8,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+20,Male,4–6,2–4,4–6,5–6,20–40,sometimes,Sometimes,Medium
+20,Female,6–8,2–4,2–4,6–7,20–40,yes,Sometimes,Medium
+22,Male,Less than 2 hours,1–2,1–2,More than 7 hours,10–20,no,Never,Low
+28,Male,4–6,1–2,2–4,6–7,10–20,sometimes,Sometimes,Medium
+21,Male,4–6,2–4,1–2,6–7,10–20,sometimes,Sometimes,Medium
+23,Male,Less than 2 hours,2–4,1–2,6–7,10–20,no,Never,Low
+21,Female,Less than 2 hours,1–2,0 hours,6–7,10–20,no,Never,Low
+24,Female,2–4,2–4,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+27,Female,2–4,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+24,Female,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+20,Male,Less than 2 hours,2–4,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+22,Female,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+21,Female,More than 8 hours,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+27,Male,More than 8 hours,More than 6 hours,2–4,5–6,20–40,yes,Always,High
+19,Male,6–8,2–4,4–6,5–6,10–20,sometimes,Always,Medium
+30,Male,4–6,1–2,1–2,5–6,20–40,yes,Sometimes,Medium
+20,Male,Less than 2 hours,Less than 1 hour,0 hours,6–7,10–20,no,Sometimes,Low
+24,Female,6–8,4–6,2–4,5–6,20–40,yes,Always,High
+25,Male,Less than 2 hours,2–4,0 hours,More than 7 hours,10–20,no,Sometimes,Low
+25,Male,6–8,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+21,Female,4–6,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+29,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+18,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Sometimes,High
+25,Female,2–4,1–2,1–2,More than 7 hours,10–20,no,Sometimes,Low
+25,Female,2–4,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+25,Female,6–8,More than 6 hours,4–6,5–6,20–40,yes,Always,High
+29,Female,6–8,1–2,2–4,6–7,20–40,yes,Sometimes,Medium
+18,Male,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,sometimes,Sometimes,Low
+28,Male,4–6,4–6,4–6,6–7,20–40,sometimes,Always,Medium
+21,Female,2–4,2–4,2–4,5–6,10–20,sometimes,Always,Medium
+21,Female,4–6,4–6,1–2,5–6,10–20,sometimes,Sometimes,Medium
+26,Male,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,no,Never,Low
+25,Female,Less than 2 hours,1–2,0 hours,6–7,10–20,no,Sometimes,Low
+30,Female,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+19,Female,4–6,1–2,1–2,6–7,20–40,sometimes,Always,Medium
+18,Male,6–8,4–6,4–6,6–7,20–40,sometimes,Always,Medium
+24,Male,4–6,4–6,4–6,6–7,20–40,sometimes,Sometimes,Medium
+27,Female,6–8,4–6,1–2,6–7,20–40,sometimes,Sometimes,Medium
+26,Female,Less than 2 hours,1–2,1–2,6–7,Less than 10 times,no,Never,Low
+30,Male,6–8,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+19,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+29,Male,6–8,2–4,1–2,5–6,10–20,sometimes,Always,Medium
+19,Male,More than 8 hours,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+26,Male,2–4,1–2,1–2,6–7,10–20,sometimes,Sometimes,Medium
+30,Female,Less than 2 hours,1–2,2–4,More than 7 hours,10–20,no,Sometimes,Low
+20,Female,2–4,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+23,Male,More than 8 hours,4–6,2–4,5–6,More than 40 times,yes,Always,High
+29,Male,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+25,Male,2–4,2–4,4–6,5–6,10–20,yes,Always,Medium
+23,Male,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+23,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,sometimes,Never,Low
+28,Female,6–8,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+24,Male,Less than 2 hours,1–2,1–2,6–7,Less than 10 times,sometimes,Never,Low
+22,Male,6–8,4–6,More than 6 hours,Less than 5 hours,20–40,yes,Sometimes,High
+27,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+20,Male,4–6,1–2,1–2,6–7,10–20,sometimes,Always,Medium
+23,Female,2–4,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,sometimes,Never,Low
+22,Female,6–8,4–6,2–4,5–6,10–20,sometimes,Always,Medium
+22,Female,Less than 2 hours,1–2,0 hours,6–7,10–20,no,Never,Low
+27,Male,4–6,2–4,2–4,6–7,20–40,yes,Sometimes,Medium
+27,Female,4–6,1–2,4–6,6–7,20–40,sometimes,Sometimes,Medium
+20,Female,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+25,Male,4–6,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+21,Female,4–6,2–4,1–2,6–7,10–20,yes,Sometimes,Medium
+21,Female,6–8,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+29,Male,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+20,Female,2–4,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+25,Female,6–8,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+24,Male,6–8,1–2,2–4,6–7,10–20,yes,Sometimes,Medium
+22,Male,4–6,4–6,4–6,5–6,10–20,yes,Sometimes,Medium
+20,Female,6–8,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+23,Female,6–8,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+25,Female,4–6,4–6,2–4,5–6,10–20,sometimes,Sometimes,Medium
+26,Female,Less than 2 hours,1–2,1–2,More than 7 hours,10–20,sometimes,Never,Low
+23,Male,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+30,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+21,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+19,Female,4–6,4–6,2–4,6–7,10–20,yes,Always,Medium
+20,Female,4–6,4–6,2–4,6–7,10–20,yes,Always,Medium
+24,Male,6–8,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Sometimes,High
+19,Male,2–4,Less than 1 hour,0 hours,6–7,10–20,no,Sometimes,Low
+23,Male,2–4,Less than 1 hour,2–4,More than 7 hours,10–20,no,Never,Low
+28,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,10–20,sometimes,Never,Low
+23,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+30,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+20,Female,6–8,More than 6 hours,2–4,5–6,20–40,yes,Always,High
+18,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+22,Female,6–8,More than 6 hours,2–4,Less than 5 hours,20–40,yes,Always,High
+21,Female,Less than 2 hours,1–2,2–4,More than 7 hours,Less than 10 times,no,Sometimes,Low
+21,Male,2–4,2–4,1–2,6–7,20–40,sometimes,Sometimes,Medium
+21,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,10–20,no,Sometimes,Low
+30,Female,6–8,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+20,Male,4–6,4–6,2–4,6–7,20–40,sometimes,Sometimes,Medium
+29,Male,6–8,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+23,Female,6–8,1–2,2–4,5–6,20–40,sometimes,Always,Medium
+22,Male,2–4,1–2,1–2,6–7,10–20,no,Sometimes,Low
+20,Male,4–6,4–6,2–4,5–6,20–40,yes,Sometimes,Medium
+29,Female,6–8,2–4,1–2,5–6,10–20,sometimes,Always,Medium
+23,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,20–40,yes,Always,High
+24,Female,More than 8 hours,4–6,4–6,5–6,More than 40 times,sometimes,Always,High
+27,Female,More than 8 hours,More than 6 hours,4–6,5–6,20–40,yes,Always,High
+28,Female,2–4,1–2,2–4,6–7,10–20,no,Never,Low
+20,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+21,Male,2–4,2–4,1–2,6–7,20–40,yes,Sometimes,Medium
+23,Female,4–6,2–4,1–2,6–7,20–40,sometimes,Always,Medium
+23,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,10–20,no,Sometimes,Low
+25,Male,4–6,2–4,2–4,5–6,20–40,yes,Sometimes,Medium
+20,Male,2–4,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Never,Low
+29,Male,2–4,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+23,Male,2–4,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+20,Female,6–8,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+24,Female,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+29,Male,6–8,4–6,1–2,6–7,10–20,yes,Sometimes,Medium
+24,Female,6–8,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+24,Female,2–4,1–2,1–2,6–7,10–20,sometimes,Never,Low
+24,Male,4–6,2–4,1–2,5–6,20–40,sometimes,Sometimes,Medium
+29,Male,4–6,2–4,2–4,5–6,10–20,yes,Sometimes,Medium
+22,Female,4–6,1–2,2–4,6–7,20–40,sometimes,Sometimes,Medium
+21,Male,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+21,Male,Less than 2 hours,Less than 1 hour,1–2,6–7,10–20,sometimes,Sometimes,Low
+25,Male,Less than 2 hours,Less than 1 hour,2–4,More than 7 hours,10–20,no,Sometimes,Low
+26,Male,4–6,1–2,2–4,5–6,20–40,sometimes,Sometimes,Medium
+29,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,10–20,no,Never,Low
+18,Male,4–6,2–4,2–4,5–6,10–20,sometimes,Always,Medium
+25,Female,2–4,2–4,1–2,6–7,10–20,yes,Always,Medium
+20,Female,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+28,Female,6–8,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+29,Female,2–4,1–2,1–2,More than 7 hours,Less than 10 times,sometimes,Never,Low
+26,Male,4–6,2–4,4–6,6–7,20–40,sometimes,Always,Medium
+27,Male,4–6,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+30,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,sometimes,Always,High
+27,Female,6–8,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+24,Female,4–6,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+24,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+21,Male,Less than 2 hours,1–2,0 hours,6–7,10–20,sometimes,Never,Low
+27,Male,More than 8 hours,More than 6 hours,2–4,5–6,20–40,yes,Always,High
+22,Female,More than 8 hours,More than 6 hours,2–4,Less than 5 hours,20–40,yes,Always,High
+24,Female,More than 8 hours,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+29,Female,2–4,2–4,2–4,5–6,20–40,yes,Always,Medium
+24,Female,2–4,2–4,2–4,6–7,Less than 10 times,sometimes,Never,Low
+21,Female,6–8,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+18,Female,2–4,2–4,1–2,6–7,Less than 10 times,no,Never,Low
+25,Female,6–8,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+20,Female,2–4,4–6,1–2,5–6,20–40,sometimes,Sometimes,Medium
+19,Male,More than 8 hours,More than 6 hours,4–6,5–6,20–40,yes,Always,High
+30,Female,2–4,1–2,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+21,Male,2–4,2–4,1–2,5–6,10–20,sometimes,Always,Medium
+21,Male,6–8,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+19,Male,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+22,Male,2–4,Less than 1 hour,1–2,More than 7 hours,10–20,no,Sometimes,Low
+18,Female,More than 8 hours,More than 6 hours,2–4,Less than 5 hours,20–40,sometimes,Always,High
+30,Male,6–8,4–6,More than 6 hours,5–6,More than 40 times,yes,Always,High
+23,Male,2–4,1–2,1–2,6–7,Less than 10 times,no,Sometimes,Low
+22,Male,6–8,2–4,4–6,6–7,10–20,sometimes,Always,Medium
+20,Male,2–4,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+23,Male,Less than 2 hours,2–4,1–2,More than 7 hours,Less than 10 times,sometimes,Never,Low
+23,Male,4–6,2–4,4–6,5–6,20–40,sometimes,Always,Medium
+28,Male,6–8,More than 6 hours,4–6,5–6,20–40,yes,Always,High
+25,Female,6–8,More than 6 hours,4–6,5–6,20–40,sometimes,Always,High
+23,Female,2–4,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+27,Female,4–6,2–4,1–2,5–6,10–20,sometimes,Sometimes,Medium
+18,Female,4–6,2–4,1–2,6–7,10–20,yes,Sometimes,Medium
+24,Male,More than 8 hours,4–6,4–6,5–6,More than 40 times,yes,Always,High
+24,Male,2–4,2–4,1–2,More than 7 hours,10–20,no,Never,Low
+29,Female,2–4,2–4,4–6,5–6,10–20,sometimes,Sometimes,Medium
+28,Male,2–4,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+20,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+21,Female,6–8,1–2,2–4,6–7,10–20,sometimes,Always,Medium
+18,Male,More than 8 hours,4–6,More than 6 hours,5–6,20–40,yes,Always,High
+29,Female,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+30,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+21,Female,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+27,Female,6–8,2–4,1–2,6–7,10–20,sometimes,Sometimes,Medium
+18,Female,Less than 2 hours,1–2,1–2,6–7,Less than 10 times,no,Sometimes,Low
+30,Female,4–6,2–4,2–4,5–6,10–20,yes,Sometimes,Medium
+30,Male,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,no,Never,Low
+22,Female,6–8,4–6,2–4,5–6,10–20,yes,Sometimes,Medium
+29,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+22,Female,2–4,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+18,Male,4–6,4–6,1–2,6–7,20–40,sometimes,Always,Medium
+27,Female,Less than 2 hours,2–4,0 hours,More than 7 hours,10–20,sometimes,Never,Low
+27,Female,4–6,4–6,2–4,5–6,10–20,sometimes,Sometimes,Medium
+18,Female,6–8,4–6,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+20,Female,4–6,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+30,Female,More than 8 hours,4–6,2–4,5–6,More than 40 times,yes,Always,High
+27,Male,4–6,2–4,1–2,6–7,20–40,yes,Always,Medium
+19,Female,Less than 2 hours,2–4,2–4,6–7,10–20,no,Never,Low
+21,Male,4–6,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+24,Female,6–8,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+27,Male,4–6,1–2,2–4,5–6,20–40,sometimes,Sometimes,Medium
+22,Male,6–8,2–4,4–6,5–6,20–40,yes,Sometimes,Medium
+19,Male,2–4,Less than 1 hour,1–2,6–7,Less than 10 times,sometimes,Sometimes,Low
+23,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+21,Male,6–8,4–6,4–6,5–6,More than 40 times,yes,Always,High
+19,Female,4–6,2–4,1–2,5–6,20–40,sometimes,Sometimes,Medium
+19,Female,4–6,4–6,1–2,5–6,10–20,yes,Sometimes,Medium
+24,Female,Less than 2 hours,1–2,1–2,More than 7 hours,10–20,no,Never,Low
+29,Male,6–8,4–6,4–6,Less than 5 hours,More than 40 times,yes,Sometimes,High
+25,Female,2–4,1–2,2–4,More than 7 hours,Less than 10 times,no,Sometimes,Low
+21,Male,4–6,2–4,1–2,5–6,20–40,sometimes,Sometimes,Medium
+26,Female,2–4,4–6,4–6,6–7,20–40,yes,Sometimes,Medium
+28,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,sometimes,Never,Low
+22,Male,2–4,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+18,Male,4–6,4–6,2–4,6–7,20–40,sometimes,Sometimes,Medium
+28,Male,6–8,4–6,1–2,5–6,10–20,sometimes,Always,Medium
+25,Female,4–6,4–6,1–2,6–7,20–40,sometimes,Sometimes,Medium
+25,Male,4–6,1–2,1–2,5–6,20–40,yes,Always,Medium
+18,Female,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+30,Male,2–4,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Never,Low
+20,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+27,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Sometimes,High
+21,Male,4–6,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+21,Male,6–8,2–4,2–4,5–6,10–20,yes,Sometimes,Medium
+29,Male,2–4,4–6,2–4,5–6,20–40,sometimes,Sometimes,Medium
+29,Male,4–6,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+22,Male,4–6,4–6,4–6,5–6,10–20,sometimes,Always,Medium
+24,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Sometimes,High
+26,Female,2–4,2–4,2–4,5–6,10–20,yes,Sometimes,Medium
+21,Female,4–6,2–4,1–2,5–6,10–20,yes,Sometimes,Medium
+30,Female,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+19,Female,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+28,Female,2–4,1–2,1–2,6–7,Less than 10 times,no,Never,Low
+25,Female,2–4,2–4,2–4,More than 7 hours,Less than 10 times,no,Sometimes,Low
+19,Male,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+26,Female,2–4,1–2,2–4,More than 7 hours,10–20,sometimes,Never,Low
+22,Female,6–8,1–2,2–4,5–6,20–40,sometimes,Always,Medium
+28,Male,2–4,Less than 1 hour,0 hours,6–7,10–20,sometimes,Never,Low
+22,Female,6–8,More than 6 hours,2–4,Less than 5 hours,More than 40 times,sometimes,Always,High
+25,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+27,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+24,Male,2–4,4–6,4–6,5–6,20–40,sometimes,Sometimes,Medium
+21,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+25,Female,Less than 2 hours,1–2,1–2,6–7,Less than 10 times,no,Sometimes,Low
+20,Male,6–8,2–4,2–4,6–7,10–20,sometimes,Sometimes,Medium
+28,Male,6–8,2–4,1–2,6–7,10–20,sometimes,Always,Medium
+23,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+29,Male,4–6,1–2,2–4,5–6,20–40,sometimes,Sometimes,Medium
+24,Male,6–8,4–6,2–4,5–6,10–20,sometimes,Always,Medium
+23,Male,Less than 2 hours,2–4,0 hours,6–7,10–20,no,Never,Low
+23,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,10–20,no,Never,Low
+20,Female,4–6,2–4,4–6,5–6,10–20,yes,Sometimes,Medium
+26,Female,4–6,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+22,Male,6–8,4–6,2–4,5–6,10–20,sometimes,Sometimes,Medium
+26,Male,4–6,2–4,2–4,6–7,10–20,yes,Always,Medium
+21,Male,Less than 2 hours,Less than 1 hour,0 hours,6–7,10–20,no,Never,Low
+28,Male,More than 8 hours,More than 6 hours,2–4,Less than 5 hours,20–40,sometimes,Always,High
+24,Male,4–6,4–6,1–2,5–6,10–20,sometimes,Sometimes,Medium
+26,Male,Less than 2 hours,2–4,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+25,Female,6–8,4–6,2–4,6–7,20–40,sometimes,Sometimes,Medium
+23,Male,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,sometimes,Never,Low
+24,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+20,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Sometimes,High
+27,Female,6–8,2–4,4–6,6–7,20–40,sometimes,Always,Medium
+28,Female,2–4,4–6,1–2,6–7,20–40,yes,Always,Medium
+25,Male,6–8,4–6,1–2,6–7,20–40,yes,Sometimes,Medium
+19,Male,6–8,4–6,4–6,5–6,20–40,yes,Always,High
+25,Male,2–4,1–2,1–2,5–6,20–40,yes,Sometimes,Medium
+26,Male,More than 8 hours,4–6,2–4,Less than 5 hours,20–40,yes,Always,High
+20,Male,4–6,4–6,1–2,6–7,20–40,yes,Sometimes,Medium
+26,Female,4–6,1–2,1–2,6–7,20–40,sometimes,Sometimes,Medium
+30,Female,2–4,Less than 1 hour,2–4,6–7,Less than 10 times,no,Never,Low
+24,Female,4–6,1–2,2–4,5–6,20–40,sometimes,Always,Medium
+21,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,10–20,sometimes,Sometimes,Low
+24,Male,2–4,1–2,4–6,5–6,20–40,yes,Always,Medium
+25,Male,6–8,2–4,4–6,6–7,10–20,yes,Always,Medium
+23,Male,6–8,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+22,Female,6–8,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+23,Female,6–8,4–6,2–4,6–7,10–20,yes,Always,Medium
+26,Female,6–8,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+25,Female,4–6,2–4,1–2,5–6,20–40,sometimes,Sometimes,Medium
+18,Male,6–8,More than 6 hours,2–4,5–6,More than 40 times,yes,Always,High
+19,Female,4–6,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+21,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+25,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+25,Female,Less than 2 hours,1–2,1–2,More than 7 hours,10–20,no,Never,Low
+25,Male,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,sometimes,Never,Low
+21,Male,6–8,2–4,4–6,6–7,20–40,sometimes,Sometimes,Medium
+21,Female,4–6,1–2,1–2,6–7,20–40,sometimes,Always,Medium
+30,Female,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Sometimes,High
+27,Male,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+19,Male,2–4,Less than 1 hour,2–4,More than 7 hours,10–20,no,Never,Low
+25,Male,4–6,2–4,2–4,6–7,20–40,sometimes,Always,Medium
+19,Male,4–6,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+22,Female,Less than 2 hours,2–4,2–4,6–7,10–20,no,Never,Low
+20,Male,6–8,1–2,2–4,6–7,10–20,yes,Always,Medium
+24,Female,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+27,Female,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+25,Male,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+29,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,10–20,no,Never,Low
+27,Male,4–6,4–6,1–2,6–7,10–20,sometimes,Always,Medium
+27,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,sometimes,Always,High
+28,Female,2–4,2–4,1–2,6–7,10–20,no,Sometimes,Low
+30,Male,6–8,2–4,1–2,5–6,20–40,sometimes,Always,Medium
+23,Male,Less than 2 hours,2–4,1–2,6–7,Less than 10 times,no,Sometimes,Low
+24,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,sometimes,Never,Low
+28,Male,4–6,2–4,1–2,5–6,10–20,yes,Always,Medium
+30,Male,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,no,Sometimes,Low
+22,Female,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+19,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,10–20,no,Sometimes,Low
+20,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Sometimes,High
+27,Female,6–8,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+21,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Sometimes,High
+22,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+29,Female,More than 8 hours,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+25,Female,6–8,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+24,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,sometimes,Never,Low
+29,Male,6–8,2–4,2–4,5–6,10–20,yes,Always,Medium
+19,Female,2–4,Less than 1 hour,1–2,6–7,Less than 10 times,no,Never,Low
+29,Male,6–8,4–6,4–6,5–6,More than 40 times,yes,Always,High
+24,Male,More than 8 hours,4–6,More than 6 hours,5–6,20–40,yes,Always,High
+30,Male,6–8,More than 6 hours,More than 6 hours,5–6,20–40,yes,Always,High
+30,Male,More than 8 hours,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+26,Female,2–4,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+18,Male,2–4,Less than 1 hour,0 hours,6–7,Less than 10 times,sometimes,Never,Low
+26,Male,6–8,4–6,4–6,Less than 5 hours,20–40,sometimes,Sometimes,High
+29,Female,2–4,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+24,Male,4–6,2–4,1–2,5–6,20–40,sometimes,Sometimes,Medium
+19,Female,6–8,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+30,Female,6–8,2–4,1–2,5–6,10–20,yes,Sometimes,Medium
+25,Male,6–8,2–4,2–4,6–7,10–20,sometimes,Sometimes,Medium
+29,Male,6–8,4–6,4–6,Less than 5 hours,20–40,sometimes,Always,High
+18,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,10–20,no,Never,Low
+23,Male,6–8,More than 6 hours,2–4,Less than 5 hours,20–40,yes,Sometimes,High
+18,Male,6–8,4–6,4–6,5–6,20–40,yes,Always,High
+24,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+24,Male,4–6,2–4,1–2,6–7,20–40,sometimes,Sometimes,Medium
+20,Male,2–4,2–4,2–4,5–6,10–20,sometimes,Always,Medium
+21,Male,2–4,2–4,0 hours,6–7,Less than 10 times,no,Never,Low
+27,Male,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+26,Female,6–8,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+24,Male,2–4,2–4,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+26,Male,More than 8 hours,4–6,2–4,5–6,More than 40 times,yes,Always,High
+22,Male,2–4,1–2,1–2,5–6,20–40,sometimes,Always,Medium
+30,Male,2–4,1–2,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+23,Female,Less than 2 hours,2–4,1–2,6–7,10–20,no,Never,Low
+25,Female,Less than 2 hours,1–2,1–2,6–7,10–20,no,Sometimes,Low
+20,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+21,Male,6–8,2–4,4–6,5–6,10–20,sometimes,Sometimes,Medium
+29,Male,4–6,2–4,1–2,5–6,10–20,sometimes,Always,Medium
+24,Female,4–6,4–6,2–4,5–6,20–40,sometimes,Sometimes,Medium
+20,Male,2–4,4–6,2–4,5–6,20–40,sometimes,Sometimes,Medium
+19,Female,4–6,1–2,2–4,5–6,20–40,sometimes,Sometimes,Medium
+19,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+30,Male,2–4,1–2,1–2,5–6,10–20,sometimes,Sometimes,Medium
+30,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Sometimes,High
+23,Male,4–6,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+30,Male,2–4,1–2,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+21,Female,6–8,4–6,4–6,6–7,10–20,sometimes,Sometimes,Medium
+28,Male,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+28,Female,Less than 2 hours,1–2,2–4,More than 7 hours,10–20,no,Never,Low
+19,Male,4–6,4–6,1–2,5–6,20–40,sometimes,Sometimes,Medium
+24,Female,2–4,2–4,1–2,6–7,10–20,no,Never,Low
+19,Female,2–4,1–2,1–2,6–7,10–20,yes,Always,Medium
+19,Female,6–8,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+22,Male,2–4,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+29,Male,4–6,2–4,1–2,6–7,20–40,sometimes,Always,Medium
+21,Male,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+24,Male,2–4,1–2,2–4,More than 7 hours,Less than 10 times,no,Never,Low
+24,Female,4–6,2–4,1–2,6–7,10–20,sometimes,Always,Medium
+18,Male,Less than 2 hours,1–2,1–2,6–7,10–20,no,Never,Low
+28,Male,2–4,Less than 1 hour,2–4,6–7,Less than 10 times,no,Never,Low
+29,Female,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+22,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,sometimes,Always,High
+25,Male,6–8,4–6,2–4,5–6,10–20,sometimes,Sometimes,Medium
+29,Female,2–4,1–2,0 hours,6–7,10–20,no,Never,Low
+21,Female,4–6,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+29,Female,More than 8 hours,4–6,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+25,Male,6–8,2–4,1–2,6–7,10–20,sometimes,Sometimes,Medium
+20,Female,6–8,4–6,2–4,5–6,10–20,sometimes,Sometimes,Medium
+28,Male,4–6,4–6,4–6,6–7,20–40,sometimes,Sometimes,Medium
+22,Male,Less than 2 hours,Less than 1 hour,1–2,6–7,10–20,no,Never,Low
+22,Female,4–6,1–2,1–2,5–6,20–40,sometimes,Always,Medium
+18,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+21,Male,Less than 2 hours,1–2,0 hours,6–7,10–20,no,Never,Low
+25,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+18,Male,4–6,1–2,2–4,6–7,20–40,sometimes,Sometimes,Medium
+21,Male,4–6,2–4,4–6,5–6,10–20,yes,Sometimes,Medium
+21,Male,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,sometimes,Never,Low
+28,Female,More than 8 hours,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+23,Female,2–4,2–4,0 hours,More than 7 hours,10–20,sometimes,Never,Low
+20,Male,6–8,2–4,1–2,6–7,10–20,sometimes,Sometimes,Medium
+27,Male,4–6,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+26,Male,4–6,1–2,1–2,5–6,10–20,sometimes,Always,Medium
+30,Female,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+25,Female,Less than 2 hours,2–4,1–2,6–7,10–20,no,Never,Low
+23,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,10–20,no,Never,Low
+27,Female,4–6,4–6,1–2,6–7,10–20,sometimes,Sometimes,Medium
+27,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,sometimes,Always,High
+29,Male,More than 8 hours,4–6,4–6,Less than 5 hours,20–40,yes,Always,High
+24,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,10–20,no,Sometimes,Low
+29,Male,4–6,1–2,2–4,6–7,20–40,sometimes,Always,Medium
+28,Male,2–4,1–2,1–2,6–7,20–40,sometimes,Sometimes,Medium
+27,Male,4–6,4–6,2–4,6–7,20–40,sometimes,Sometimes,Medium
+27,Female,2–4,2–4,2–4,6–7,20–40,yes,Always,Medium
+19,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+18,Female,Less than 2 hours,1–2,1–2,6–7,Less than 10 times,no,Never,Low
+19,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,sometimes,Never,Low
+20,Female,6–8,4–6,2–4,5–6,More than 40 times,yes,Always,High
+24,Male,4–6,4–6,2–4,5–6,20–40,sometimes,Sometimes,Medium
+22,Male,6–8,1–2,4–6,6–7,10–20,yes,Always,Medium
+27,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,sometimes,Always,High
+25,Male,6–8,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+24,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+25,Female,6–8,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+27,Female,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,sometimes,Never,Low
+19,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+18,Female,6–8,4–6,4–6,5–6,20–40,sometimes,Sometimes,Medium
+29,Male,2–4,1–2,2–4,6–7,Less than 10 times,no,Sometimes,Low
+28,Male,6–8,2–4,2–4,5–6,10–20,sometimes,Always,Medium
+21,Female,6–8,4–6,4–6,5–6,More than 40 times,yes,Always,High
+19,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Never,Low
+20,Female,6–8,1–2,2–4,6–7,10–20,sometimes,Always,Medium
+20,Male,4–6,2–4,1–2,5–6,10–20,yes,Always,Medium
+28,Male,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,no,Sometimes,Low
+26,Male,Less than 2 hours,2–4,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+30,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+27,Male,More than 8 hours,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+23,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+22,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+27,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,no,Sometimes,Low
+27,Female,6–8,2–4,1–2,5–6,10–20,sometimes,Sometimes,Medium
+26,Female,4–6,1–2,1–2,5–6,20–40,sometimes,Always,Medium
+20,Male,Less than 2 hours,2–4,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+18,Male,More than 8 hours,More than 6 hours,2–4,5–6,20–40,yes,Always,High
+26,Male,6–8,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+28,Female,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+29,Female,2–4,1–2,2–4,6–7,20–40,yes,Sometimes,Medium
+19,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+28,Female,4–6,2–4,1–2,5–6,10–20,sometimes,Sometimes,Medium
+26,Female,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+28,Female,2–4,4–6,2–4,6–7,20–40,sometimes,Always,Medium
+21,Female,2–4,1–2,1–2,5–6,20–40,yes,Sometimes,Medium
+25,Female,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+18,Female,2–4,2–4,1–2,5–6,10–20,yes,Always,Medium
+26,Female,6–8,4–6,4–6,Less than 5 hours,More than 40 times,yes,Sometimes,High
+18,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+18,Female,4–6,2–4,1–2,6–7,20–40,yes,Sometimes,Medium
+19,Male,6–8,More than 6 hours,More than 6 hours,5–6,20–40,yes,Always,High
+24,Female,4–6,4–6,2–4,6–7,20–40,yes,Sometimes,Medium
+25,Male,4–6,1–2,2–4,6–7,20–40,yes,Always,Medium
+22,Female,4–6,2–4,2–4,6–7,20–40,sometimes,Sometimes,Medium
+23,Male,6–8,2–4,1–2,6–7,10–20,sometimes,Sometimes,Medium
+20,Male,4–6,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+20,Female,More than 8 hours,More than 6 hours,2–4,Less than 5 hours,More than 40 times,sometimes,Always,High
+22,Male,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+29,Female,6–8,4–6,2–4,6–7,20–40,sometimes,Always,Medium
+25,Female,4–6,1–2,1–2,6–7,20–40,sometimes,Always,Medium
+22,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Sometimes,High
+25,Female,6–8,4–6,2–4,6–7,20–40,sometimes,Always,Medium
+18,Female,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,10–20,no,Sometimes,Low
+30,Female,Less than 2 hours,1–2,0 hours,More than 7 hours,10–20,no,Never,Low
+27,Male,4–6,4–6,2–4,6–7,10–20,sometimes,Sometimes,Medium
+19,Male,6–8,1–2,2–4,5–6,10–20,sometimes,Sometimes,Medium
+19,Male,Less than 2 hours,2–4,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+25,Male,4–6,2–4,1–2,5–6,20–40,sometimes,Sometimes,Medium
+23,Male,2–4,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+25,Female,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,sometimes,Always,High
+30,Female,2–4,2–4,1–2,6–7,Less than 10 times,sometimes,Never,Low
+21,Male,2–4,1–2,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+24,Male,6–8,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+20,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,sometimes,Always,High
+19,Female,6–8,More than 6 hours,More than 6 hours,5–6,20–40,sometimes,Always,High
+22,Female,4–6,1–2,2–4,5–6,10–20,yes,Sometimes,Medium
+27,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+21,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+24,Male,4–6,1–2,2–4,6–7,10–20,yes,Sometimes,Medium
+26,Male,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+24,Female,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+27,Male,2–4,2–4,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+27,Male,4–6,2–4,2–4,6–7,20–40,yes,Sometimes,Medium
+18,Female,6–8,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+25,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+27,Male,6–8,1–2,4–6,5–6,20–40,yes,Sometimes,Medium
+26,Male,2–4,1–2,0 hours,More than 7 hours,10–20,no,Never,Low
+30,Female,6–8,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+22,Male,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+18,Female,2–4,2–4,1–2,6–7,20–40,sometimes,Always,Medium
+28,Male,4–6,1–2,2–4,6–7,20–40,sometimes,Sometimes,Medium
+25,Female,6–8,2–4,4–6,5–6,20–40,yes,Sometimes,Medium
+25,Male,More than 8 hours,More than 6 hours,4–6,5–6,20–40,sometimes,Always,High
+30,Male,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+22,Male,4–6,2–4,2–4,6–7,10–20,yes,Sometimes,Medium
+18,Male,2–4,Less than 1 hour,2–4,More than 7 hours,Less than 10 times,no,Sometimes,Low
+27,Male,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+18,Male,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,sometimes,Sometimes,Low
+28,Male,Less than 2 hours,2–4,0 hours,6–7,Less than 10 times,no,Never,Low
+20,Female,6–8,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+22,Female,2–4,2–4,2–4,6–7,20–40,sometimes,Always,Medium
+22,Female,4–6,4–6,2–4,6–7,20–40,sometimes,Always,Medium
+24,Female,Less than 2 hours,Less than 1 hour,2–4,More than 7 hours,Less than 10 times,no,Never,Low
+26,Female,More than 8 hours,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Sometimes,High
+20,Female,4–6,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+29,Male,More than 8 hours,4–6,4–6,Less than 5 hours,20–40,sometimes,Always,High
+22,Female,More than 8 hours,4–6,More than 6 hours,5–6,More than 40 times,yes,Always,High
+25,Male,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+24,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+24,Male,6–8,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+24,Male,More than 8 hours,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+18,Female,2–4,4–6,1–2,6–7,10–20,yes,Sometimes,Medium
+18,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+20,Male,4–6,2–4,4–6,6–7,20–40,sometimes,Always,Medium
+25,Female,6–8,2–4,2–4,6–7,20–40,yes,Always,Medium
+22,Male,4–6,4–6,2–4,6–7,10–20,sometimes,Always,Medium
+22,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+26,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+28,Male,2–4,1–2,0 hours,6–7,Less than 10 times,sometimes,Never,Low
+29,Male,6–8,1–2,2–4,5–6,10–20,sometimes,Always,Medium
+18,Male,More than 8 hours,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+25,Female,6–8,2–4,1–2,5–6,10–20,sometimes,Always,Medium
+18,Female,6–8,4–6,4–6,6–7,10–20,sometimes,Always,Medium
+23,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+26,Female,4–6,2–4,2–4,5–6,10–20,sometimes,Sometimes,Medium
+29,Female,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+22,Female,Less than 2 hours,2–4,0 hours,6–7,Less than 10 times,no,Sometimes,Low
+30,Male,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+24,Male,2–4,2–4,4–6,6–7,10–20,yes,Always,Medium
+22,Female,2–4,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+23,Male,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Never,Low
+30,Female,2–4,Less than 1 hour,1–2,6–7,Less than 10 times,no,Never,Low
+20,Female,2–4,1–2,1–2,6–7,Less than 10 times,no,Never,Low
+19,Female,Less than 2 hours,Less than 1 hour,0 hours,6–7,Less than 10 times,sometimes,Never,Low
+28,Male,More than 8 hours,4–6,4–6,5–6,More than 40 times,yes,Sometimes,High
+18,Female,2–4,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,sometimes,Never,Low
+22,Male,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+20,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,10–20,no,Never,Low
+19,Female,2–4,4–6,2–4,5–6,10–20,sometimes,Sometimes,Medium
+23,Male,6–8,2–4,1–2,6–7,20–40,yes,Always,Medium
+21,Female,Less than 2 hours,Less than 1 hour,2–4,6–7,10–20,no,Never,Low
+28,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+21,Male,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+27,Male,Less than 2 hours,1–2,0 hours,6–7,10–20,no,Never,Low
+30,Male,6–8,2–4,1–2,6–7,10–20,sometimes,Sometimes,Medium
+26,Male,4–6,4–6,1–2,5–6,20–40,yes,Always,Medium
+19,Female,4–6,4–6,4–6,5–6,10–20,yes,Always,Medium
+26,Male,4–6,4–6,1–2,5–6,20–40,sometimes,Sometimes,Medium
+28,Female,4–6,4–6,4–6,6–7,20–40,sometimes,Always,Medium
+25,Female,4–6,2–4,4–6,6–7,20–40,yes,Always,Medium
+24,Female,4–6,4–6,2–4,5–6,20–40,yes,Sometimes,Medium
+26,Male,6–8,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+22,Male,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+26,Male,4–6,1–2,1–2,6–7,10–20,sometimes,Always,Medium
+22,Female,6–8,More than 6 hours,4–6,Less than 5 hours,More than 40 times,sometimes,Always,High
+28,Male,More than 8 hours,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+22,Female,6–8,1–2,2–4,6–7,20–40,sometimes,Always,Medium
+18,Male,Less than 2 hours,2–4,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+19,Female,2–4,4–6,2–4,6–7,10–20,sometimes,Sometimes,Medium
+28,Female,6–8,4–6,2–4,5–6,More than 40 times,yes,Always,High
+30,Male,Less than 2 hours,1–2,0 hours,More than 7 hours,10–20,no,Never,Low
+29,Male,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+25,Female,4–6,4–6,2–4,6–7,10–20,yes,Always,Medium
+26,Male,2–4,1–2,1–2,More than 7 hours,10–20,no,Never,Low
+20,Male,4–6,4–6,2–4,6–7,10–20,yes,Always,Medium
+18,Male,2–4,2–4,2–4,6–7,Less than 10 times,no,Sometimes,Low
+30,Female,6–8,4–6,2–4,5–6,10–20,yes,Sometimes,Medium
+26,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,no,Sometimes,Low
+26,Male,6–8,2–4,2–4,6–7,10–20,yes,Always,Medium
+26,Male,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+18,Female,6–8,2–4,4–6,6–7,20–40,sometimes,Sometimes,Medium
+26,Female,4–6,2–4,4–6,6–7,20–40,sometimes,Sometimes,Medium
+30,Male,4–6,2–4,2–4,5–6,20–40,yes,Sometimes,Medium
+30,Male,More than 8 hours,4–6,4–6,5–6,More than 40 times,yes,Always,High
+19,Male,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+19,Male,4–6,4–6,1–2,5–6,20–40,sometimes,Always,Medium
+24,Female,2–4,1–2,0 hours,6–7,10–20,no,Sometimes,Low
+18,Female,4–6,4–6,2–4,6–7,10–20,sometimes,Sometimes,Medium
+26,Female,2–4,4–6,4–6,5–6,10–20,yes,Sometimes,Medium
+21,Female,2–4,1–2,1–2,6–7,Less than 10 times,no,Never,Low
+26,Female,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+19,Male,2–4,1–2,2–4,5–6,10–20,sometimes,Sometimes,Medium
+18,Male,6–8,4–6,2–4,Less than 5 hours,20–40,yes,Always,High
+22,Female,6–8,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+26,Male,2–4,4–6,2–4,5–6,10–20,yes,Sometimes,Medium
+25,Female,Less than 2 hours,1–2,1–2,More than 7 hours,Less than 10 times,no,Never,Low
+28,Male,6–8,1–2,4–6,6–7,10–20,sometimes,Always,Medium
+22,Male,2–4,1–2,2–4,6–7,Less than 10 times,sometimes,Sometimes,Low
+28,Female,4–6,2–4,1–2,5–6,20–40,sometimes,Always,Medium
+19,Male,4–6,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+21,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Sometimes,High
+28,Male,4–6,2–4,2–4,6–7,20–40,yes,Sometimes,Medium
+23,Male,4–6,1–2,2–4,5–6,20–40,sometimes,Sometimes,Medium
+23,Female,4–6,4–6,1–2,5–6,20–40,sometimes,Always,Medium
+22,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+30,Male,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+20,Female,More than 8 hours,4–6,4–6,Less than 5 hours,20–40,sometimes,Sometimes,High
+26,Female,4–6,2–4,2–4,6–7,20–40,yes,Always,Medium
+29,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,sometimes,Always,High
+20,Male,Less than 2 hours,1–2,2–4,6–7,10–20,no,Sometimes,Low
+22,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+25,Male,2–4,2–4,2–4,6–7,20–40,yes,Sometimes,Medium
+26,Female,4–6,4–6,1–2,6–7,20–40,sometimes,Sometimes,Medium
+27,Male,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,no,Never,Low
+30,Male,2–4,2–4,0 hours,6–7,10–20,no,Never,Low
+25,Male,4–6,2–4,2–4,6–7,10–20,sometimes,Always,Medium
+20,Male,More than 8 hours,4–6,More than 6 hours,5–6,More than 40 times,yes,Always,High
+18,Female,4–6,1–2,2–4,6–7,20–40,sometimes,Sometimes,Medium
+29,Female,2–4,1–2,1–2,6–7,Less than 10 times,no,Sometimes,Low
+18,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+20,Male,Less than 2 hours,Less than 1 hour,2–4,More than 7 hours,Less than 10 times,no,Never,Low
+22,Male,6–8,4–6,1–2,6–7,20–40,yes,Sometimes,Medium
+29,Male,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Sometimes,High
+26,Male,2–4,Less than 1 hour,0 hours,6–7,Less than 10 times,no,Never,Low
+23,Female,6–8,4–6,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+18,Female,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+22,Female,4–6,2–4,2–4,6–7,20–40,sometimes,Always,Medium
+20,Female,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,sometimes,Never,Low
+19,Male,More than 8 hours,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+19,Female,6–8,More than 6 hours,More than 6 hours,5–6,20–40,yes,Always,High
+29,Female,4–6,4–6,4–6,5–6,20–40,sometimes,Sometimes,Medium
+26,Female,2–4,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+27,Female,Less than 2 hours,1–2,2–4,6–7,10–20,no,Sometimes,Low
+18,Female,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+24,Female,2–4,1–2,1–2,6–7,10–20,no,Never,Low
+29,Female,6–8,1–2,1–2,6–7,10–20,sometimes,Sometimes,Medium
+29,Female,Less than 2 hours,1–2,0 hours,6–7,10–20,no,Never,Low
+29,Female,2–4,1–2,1–2,6–7,10–20,no,Never,Low
+21,Female,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+22,Female,6–8,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+30,Female,More than 8 hours,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+21,Female,2–4,1–2,1–2,6–7,Less than 10 times,no,Never,Low
+30,Female,6–8,4–6,4–6,5–6,More than 40 times,yes,Always,High
+20,Female,2–4,1–2,1–2,6–7,Less than 10 times,no,Sometimes,Low
+22,Female,2–4,2–4,1–2,5–6,20–40,sometimes,Always,Medium
+22,Female,2–4,Less than 1 hour,1–2,6–7,10–20,no,Never,Low
+30,Female,6–8,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+26,Male,2–4,2–4,4–6,5–6,20–40,sometimes,Sometimes,Medium
+19,Male,6–8,4–6,1–2,5–6,20–40,sometimes,Always,Medium
+27,Male,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+29,Female,Less than 2 hours,2–4,0 hours,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+22,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+27,Female,6–8,1–2,2–4,6–7,10–20,yes,Sometimes,Medium
+19,Female,2–4,1–2,2–4,More than 7 hours,Less than 10 times,no,Sometimes,Low
+20,Male,2–4,1–2,0 hours,More than 7 hours,10–20,no,Never,Low
+24,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+26,Female,4–6,2–4,2–4,6–7,20–40,yes,Sometimes,Medium
+29,Male,Less than 2 hours,1–2,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+24,Female,2–4,1–2,0 hours,More than 7 hours,Less than 10 times,no,Never,Low
+18,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+25,Male,6–8,1–2,2–4,6–7,20–40,sometimes,Sometimes,Medium
+30,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,sometimes,Always,High
+27,Male,6–8,More than 6 hours,More than 6 hours,5–6,More than 40 times,yes,Always,High
+24,Male,6–8,4–6,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+18,Male,4–6,2–4,1–2,6–7,10–20,sometimes,Always,Medium
+25,Female,4–6,2–4,1–2,6–7,20–40,yes,Sometimes,Medium
+30,Female,Less than 2 hours,1–2,1–2,6–7,Less than 10 times,no,Never,Low
+26,Female,6–8,2–4,2–4,6–7,20–40,yes,Sometimes,Medium
+26,Male,2–4,4–6,2–4,5–6,20–40,yes,Sometimes,Medium
+18,Female,2–4,4–6,4–6,5–6,10–20,sometimes,Sometimes,Medium
+22,Female,More than 8 hours,More than 6 hours,2–4,Less than 5 hours,20–40,yes,Sometimes,High
+24,Female,2–4,2–4,1–2,6–7,Less than 10 times,no,Sometimes,Low
+25,Male,4–6,2–4,2–4,5–6,10–20,yes,Sometimes,Medium
+25,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+19,Female,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+25,Male,More than 8 hours,4–6,4–6,5–6,More than 40 times,yes,Always,High
+26,Male,Less than 2 hours,Less than 1 hour,2–4,More than 7 hours,10–20,no,Never,Low
+23,Male,4–6,4–6,4–6,5–6,10–20,sometimes,Sometimes,Medium
+29,Female,Less than 2 hours,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+24,Female,More than 8 hours,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+27,Female,2–4,4–6,1–2,6–7,10–20,sometimes,Always,Medium
+30,Male,2–4,2–4,0 hours,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
+26,Male,4–6,2–4,1–2,5–6,10–20,sometimes,Sometimes,Medium
+21,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,no,Sometimes,Low
+21,Male,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+24,Female,4–6,4–6,2–4,6–7,10–20,sometimes,Always,Medium
+19,Female,2–4,Less than 1 hour,0 hours,6–7,10–20,no,Sometimes,Low
+24,Female,6–8,More than 6 hours,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+24,Female,More than 8 hours,More than 6 hours,4–6,5–6,20–40,yes,Always,High
+24,Female,2–4,2–4,1–2,6–7,20–40,yes,Sometimes,Medium
+18,Male,4–6,4–6,2–4,6–7,10–20,sometimes,Sometimes,Medium
+23,Male,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,Less than 10 times,no,Sometimes,Low
+21,Female,2–4,1–2,0 hours,6–7,10–20,no,Sometimes,Low
+29,Male,Less than 2 hours,1–2,1–2,6–7,Less than 10 times,no,Never,Low
+22,Male,Less than 2 hours,Less than 1 hour,1–2,More than 7 hours,10–20,no,Never,Low
+21,Female,2–4,1–2,1–2,5–6,10–20,sometimes,Sometimes,Medium
+19,Male,Less than 2 hours,Less than 1 hour,0 hours,6–7,10–20,no,Never,Low
+19,Male,2–4,4–6,2–4,5–6,20–40,sometimes,Sometimes,Medium
+19,Female,6–8,2–4,1–2,5–6,20–40,sometimes,Sometimes,Medium
+26,Male,6–8,1–2,2–4,5–6,10–20,sometimes,Sometimes,Medium
+18,Male,2–4,Less than 1 hour,1–2,More than 7 hours,10–20,no,Never,Low
+29,Male,2–4,1–2,0 hours,6–7,Less than 10 times,no,Never,Low
+30,Female,6–8,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+26,Male,4–6,2–4,1–2,6–7,20–40,yes,Sometimes,Medium
+21,Female,More than 8 hours,More than 6 hours,More than 6 hours,Less than 5 hours,More than 40 times,yes,Always,High
+29,Male,6–8,2–4,2–4,5–6,10–20,yes,Always,Medium
+21,Female,Less than 2 hours,Less than 1 hour,2–4,6–7,Less than 10 times,no,Sometimes,Low
+20,Female,2–4,1–2,1–2,6–7,Less than 10 times,no,Never,Low
+21,Female,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Sometimes,High
+29,Female,4–6,4–6,2–4,6–7,20–40,sometimes,Always,Medium
+24,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,10–20,sometimes,Sometimes,Low
+20,Male,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,20–40,yes,Always,High
+20,Male,2–4,1–2,0 hours,6–7,10–20,no,Sometimes,Low
+29,Female,Less than 2 hours,Less than 1 hour,1–2,6–7,Less than 10 times,no,Never,Low
+25,Male,More than 8 hours,More than 6 hours,4–6,Less than 5 hours,More than 40 times,yes,Always,High
+21,Female,6–8,4–6,2–4,6–7,10–20,sometimes,Sometimes,Medium
+21,Male,4–6,2–4,1–2,5–6,10–20,sometimes,Always,Medium
+23,Male,Less than 2 hours,Less than 1 hour,0 hours,More than 7 hours,Less than 10 times,no,Sometimes,Low
+21,Female,6–8,2–4,1–2,6–7,20–40,sometimes,Always,Medium
+21,Male,More than 8 hours,4–6,More than 6 hours,Less than 5 hours,20–40,sometimes,Always,High
+28,Male,Less than 2 hours,1–2,1–2,6–7,Less than 10 times,sometimes,Sometimes,Low
+23,Male,6–8,More than 6 hours,4–6,Less than 5 hours,20–40,yes,Always,High
+18,Male,6–8,More than 6 hours,2–4,Less than 5 hours,More than 40 times,yes,Always,High
+20,Female,4–6,1–2,2–4,6–7,20–40,yes,Always,Medium
+27,Female,4–6,2–4,1–2,6–7,10–20,sometimes,Always,Medium
+29,Female,6–8,2–4,2–4,6–7,20–40,yes,Always,Medium
+24,Male,2–4,Less than 1 hour,1–2,6–7,Less than 10 times,no,Never,Low
+22,Male,4–6,2–4,4–6,5–6,10–20,sometimes,Always,Medium
+22,Female,4–6,2–4,1–2,6–7,10–20,sometimes,Always,Medium
+28,Male,Less than 2 hours,Less than 1 hour,0 hours,6–7,10–20,sometimes,Never,Low
+18,Female,4–6,2–4,2–4,5–6,20–40,sometimes,Always,Medium
+20,Male,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,yes,Always,High
+30,Female,2–4,1–2,4–6,5–6,10–20,sometimes,Sometimes,Medium
+22,Female,2–4,Less than 1 hour,2–4,More than 7 hours,Less than 10 times,no,Sometimes,Low
+26,Male,4–6,2–4,2–4,6–7,20–40,yes,Sometimes,Medium
+29,Female,2–4,4–6,2–4,6–7,10–20,sometimes,Always,Medium
+18,Male,6–8,1–2,1–2,6–7,20–40,sometimes,Always,Medium
+23,Male,6–8,2–4,2–4,5–6,20–40,sometimes,Sometimes,Medium
+25,Female,4–6,4–6,4–6,6–7,20–40,yes,Always,Medium
+22,Male,2–4,Less than 1 hour,1–2,More than 7 hours,10–20,no,Sometimes,Low
+23,Female,6–8,1–2,1–2,5–6,10–20,sometimes,Sometimes,Medium
+29,Female,More than 8 hours,More than 6 hours,4–6,5–6,More than 40 times,sometimes,Always,High
+18,Female,2–4,1–2,0 hours,More than 7 hours,Less than 10 times,sometimes,Sometimes,Low
